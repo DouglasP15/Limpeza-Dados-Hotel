@@ -1,0 +1,1496 @@
+Guest_Name,Age,Room_Type,CheckIn_Date,CheckOut_Date,Booking_Channel,Total_Charges,Satisfaction_Score,Days Hosted
+Paulo Chiavini,69,Standard,2025-08-21,2025-08-23,Site Oficial,296.97,1.0,2
+Ana Pereira,32,Standard,2025-08-28,2025-09-10,Booking.com,2235.38,5.0,13
+Luyz Silva,78,Standard,2025-01-04,2025-01-18,Site Oficial,1907.7,4.0,14
+Luyz Silva,38,Deluxe,2025-06-30,2025-07-14,Booking.com,3751.33,2.0,14
+Ana Silva,41,Deluxe,2025-02-28,2025-03-02,Booking.com,575.66,3.0,2
+Lucas Santos,20,Standard,2025-01-12,2025-01-25,Booking.com,2076.73,4.0,13
+Felipe Alves,39,Suite,2025-01-29,2025-02-09,Booking.com,4392.25,3.0,11
+Fernanda Okawachi,70,Suite,2025-03-13,2025-03-18,Direto no Balcao,2305.41,4.0,5
+Luyz Pereira,19,Deluxe,2025-04-11,2025-04-25,Site Oficial,3366.51,2.0,14
+Maria Silva,47,Suite,2025-01-31,2025-02-05,Site Oficial,2255.34,4.0,5
+Joao Okawachi,55,Standard,2025-07-03,2025-07-10,Booking.com,995.91,3.0,7
+Maria Oliveira,19,Standard,2025-04-16,2025-04-17,Booking.com,148.53,4.0,1
+Joao Santos,81,Standard,2025-10-17,2025-10-25,Site Oficial,1094.48,5.0,8
+Julia Chiavini,77,Standard,2025-03-07,2025-03-10,Direto no Balcao,477.09,4.0,3
+Carlos Santos,38,Deluxe,2025-08-09,2025-08-13,Agencia,1098.78,3.0,4
+Luyz Alves,50,Suite,2025-02-25,2025-03-06,Agencia,3664.24,3.0,9
+Lucas Pereira,75,Standard,2025-04-27,2025-05-01,Site Oficial,597.0,3.0,4
+Lucas Costa,39,Standard,2025-01-11,2025-01-21,Booking.com,1466.31,3.0,10
+Joao Chiavini,66,Standard,2025-05-17,2025-05-29,Booking.com,1838.86,3.0,12
+Joao Alves,76,Suite,2025-11-27,2025-12-02,Direto no Balcao,2226.23,5.0,5
+Julia Oliveira,59,Standard,2025-09-07,2025-09-14,Agencia,1076.42,4.0,7
+Fernanda Alves,77,Deluxe,2025-06-09,2025-06-13,Direto no Balcao,900.48,4.0,4
+Julia Pereira,32,Standard,2025-05-23,2025-06-06,Agencia,2038.24,4.0,14
+Paulo Oliveira,79,Standard,2025-12-20,2025-12-21,Site Oficial,136.62,4.0,1
+Felipe Okawachi,79,Presidencial,2025-08-05,2025-08-14,Agencia,10543.6,2.0,9
+Carlos Costa,64,Presidencial,2025-08-13,2025-08-17,Direto no Balcao,4084.54,5.0,4
+Luyz Silva,79,Standard,2025-05-29,2025-06-07,Direto no Balcao,1403.13,3.0,9
+Joao Pereira,68,Presidencial,2025-09-19,2025-09-25,Direto no Balcao,6293.08,5.0,6
+Paulo Silva,72,Deluxe,2025-04-13,2025-04-14,Site Oficial,250.88,5.0,1
+Fernanda Costa,81,Suite,2025-03-09,2025-03-21,Agencia,5232.29,5.0,12
+Julia Santos,20,Standard,2025-10-30,2025-11-02,Agencia,461.43,4.0,3
+Joao Santos,68,Deluxe,2025-04-13,2025-04-24,Direto no Balcao,3229.47,1.0,11
+Carlos Chiavini,24,Standard,2025-08-22,2025-08-24,Agencia,323.67,4.0,2
+Julia Oliveira,38,Deluxe,2025-08-28,2025-09-06,Booking.com,2473.44,4.0,9
+Julia Pereira,56,Standard,2025-01-05,2025-01-17,Booking.com,1818.13,4.0,12
+Ana Chiavini,35,Standard,2025-02-05,2025-02-06,Booking.com,155.06,5.0,1
+Ana Costa,21,Standard,2025-11-07,2025-11-20,Agencia,2262.55,3.0,13
+Ana Chiavini,77,Deluxe,2025-10-24,2025-11-07,Site Oficial,3524.94,3.0,14
+Lucas Pereira,31,Standard,2025-09-03,2025-09-12,Site Oficial,1603.09,3.0,9
+Luyz Alves,26,Deluxe,2025-01-18,2025-01-27,Site Oficial,2493.0,3.0,9
+Joao Pereira,70,Presidencial,2025-07-03,2025-07-11,Site Oficial,7988.79,4.0,8
+Lucas Chiavini,19,Standard,2025-09-05,2025-09-13,Booking.com,1089.29,5.0,8
+Lucas Santos,77,Deluxe,2025-09-23,2025-10-04,Booking.com,3088.66,5.0,11
+Lucas Alves,61,Standard,2025-05-31,2025-06-14,Direto no Balcao,2055.41,5.0,14
+Fernanda Oliveira,25,Suite,2025-12-20,2026-01-01,Agencia,5108.29,5.0,12
+Fernanda Pereira,64,Standard,2025-09-04,2025-09-05,Agencia,174.17,5.0,1
+Maria Pereira,52,Deluxe,2025-09-22,2025-10-03,Site Oficial,2800.62,1.0,11
+Luyz Pereira,53,Suite,2025-02-17,2025-02-25,Booking.com,3777.07,5.0,8
+Joao Silva,67,Suite,2025-11-10,2025-11-20,Site Oficial,4331.02,3.0,10
+Joao Silva,21,Deluxe,2025-01-27,2025-02-10,Direto no Balcao,3204.42,2.0,14
+Paulo Santos,19,Standard,2025-08-05,2025-08-08,Agencia,535.92,4.0,3
+Ana Silva,23,Deluxe,2025-06-16,2025-06-27,Agencia,3244.54,3.0,11
+Maria Costa,71,Suite,2025-11-14,2025-11-21,Site Oficial,2976.14,2.0,7
+Julia Silva,21,Deluxe,2025-12-07,2025-12-18,Direto no Balcao,2951.22,2.0,11
+Luyz Alves,71,Standard,2025-11-21,2025-11-22,Agencia,137.21,1.0,1
+Maria Okawachi,80,Suite,2025-05-31,2025-06-01,Direto no Balcao,438.76,,1
+Luyz Oliveira,35,Deluxe,2025-09-06,2025-09-16,Direto no Balcao,2743.98,1.0,10
+Ana Costa,61,Deluxe,2025-08-11,2025-08-24,Site Oficial,3557.9,3.0,13
+Julia Costa,51,Standard,2025-11-27,2025-12-02,Booking.com,777.11,4.0,5
+Joao Alves,79,Deluxe,2025-08-07,2025-08-12,Site Oficial,1402.64,4.0,5
+Ana Costa,31,Standard,2025-11-30,2025-12-08,Booking.com,1134.26,,8
+Fernanda Silva,65,Deluxe,2025-12-05,2025-12-12,Direto no Balcao,1974.79,1.0,7
+Luyz Costa,2,Standard,2025-12-06,2025-12-14,Booking.com,1276.84,4.0,8
+Carlos Alves,79,Deluxe,2025-01-20,2025-01-26,Direto no Balcao,1357.55,5.0,6
+Joao Okawachi,57,Presidencial,2025-10-20,2025-10-26,Agencia,6542.25,,6
+Maria Santos,70,Standard,2025-08-20,2025-08-22,Agencia,319.1,4.0,2
+Joao Chiavini,41,Presidencial,2025-05-27,2025-06-02,Agencia,6090.0,5.0,6
+Fernanda Santos,43,Standard,2025-09-17,2025-09-22,Site Oficial,751.83,2.0,5
+Julia Alves,77,Suite,2025-06-19,2025-07-02,Site Oficial,5926.55,4.0,13
+Joao Costa,58,Deluxe,2025-09-15,2025-09-18,Direto no Balcao,876.36,4.0,3
+Carlos Chiavini,46,Deluxe,2025-11-05,2025-11-11,Agencia,1571.37,5.0,6
+Julia Silva,32,Deluxe,2025-09-02,2025-09-10,Site Oficial,2089.13,3.0,8
+Ana Santos,62,Suite,2025-08-13,2025-08-22,Agencia,3267.42,3.0,9
+Maria Silva,82,Standard,2025-06-15,2025-06-16,Site Oficial,151.65,3.0,1
+Carlos Santos,26,Standard,2025-09-06,2025-09-09,Booking.com,533.07,2.0,3
+Fernanda Silva,18,Deluxe,2025-04-18,2025-04-21,Booking.com,806.97,3.0,3
+Ana Silva,25,Suite,2025-12-01,2025-12-12,Agencia,5227.4,,11
+Maria Santos,80,Deluxe,2025-11-07,2025-11-15,Direto no Balcao,2202.98,4.0,8
+Felipe Silva,28,Deluxe,2025-03-26,2025-03-27,Site Oficial,227.87,4.0,1
+Ana Pereira,25,Standard,2025-11-25,2025-11-30,Site Oficial,718.62,5.0,5
+Ana Pereira,52,Suite,2025-04-12,2025-04-15,Booking.com,1238.64,4.0,3
+Ana Santos,52,Standard,2025-11-17,2025-11-19,Booking.com,353.34,2.0,2
+Maria Costa,50,Deluxe,2025-06-04,2025-06-12,Direto no Balcao,1854.9,3.0,8
+Fernanda Costa,22,Standard,2025-12-02,2025-12-05,Direto no Balcao,516.77,3.0,3
+Luyz Costa,58,Standard,2025-06-21,2025-06-28,Direto no Balcao,997.11,4.0,7
+Julia Costa,45,Standard,2025-02-04,2025-02-16,Agencia,1986.86,4.0,12
+Carlos Alves,24,Standard,2025-09-23,2025-10-04,Booking.com,1842.03,1.0,11
+Paulo Costa,29,Deluxe,2025-09-16,2025-09-17,Agencia,238.15,4.0,1
+Maria Okawachi,51,Standard,2025-02-08,2025-02-14,Booking.com,1046.86,,6
+Felipe Santos,50,Standard,2025-08-06,2025-08-09,Booking.com,520.44,5.0,3
+Carlos Pereira,65,Standard,2025-01-15,2025-01-23,Site Oficial,1154.23,5.0,8
+Lucas Santos,40,Standard,2025-06-15,2025-06-21,Booking.com,856.78,5.0,6
+Ana Santos,79,Standard,2025-12-02,2025-12-14,Booking.com,1906.88,3.0,12
+Fernanda Pereira,54,Standard,2025-09-11,2025-09-13,Agencia,320.9,5.0,2
+Felipe Costa,61,Deluxe,2025-04-11,2025-04-17,Booking.com,1696.47,2.0,6
+Fernanda Chiavini,52,Deluxe,2025-01-21,2025-01-28,Agencia,1898.31,5.0,7
+Felipe Chiavini,82,Deluxe,2025-06-24,2025-06-29,Direto no Balcao,1339.19,4.0,5
+Lucas Okawachi,64,Standard,2025-08-20,2025-08-23,Booking.com,485.2,1.0,3
+Joao Pereira,20,Standard,2025-07-29,2025-08-02,Booking.com,688.99,5.0,4
+Luyz Pereira,18,Suite,2025-05-12,2025-05-16,Agencia,1848.96,,4
+Luyz Silva,22,Deluxe,2025-05-06,2025-05-12,Direto no Balcao,1727.67,3.0,6
+Ana Chiavini,31,Standard,2025-02-16,2025-02-26,Site Oficial,1682.47,5.0,10
+Maria Oliveira,44,Standard,2025-10-28,2025-10-29,Direto no Balcao,161.37,2.0,1
+Joao Silva,26,Standard,2025-01-06,2025-01-17,Agencia,1956.35,4.0,11
+Joao Silva,32,Standard,2025-12-30,2026-01-03,Direto no Balcao,562.49,4.0,4
+Felipe Pereira,59,Standard,2025-08-03,2025-08-13,Agencia,1423.93,4.0,10
+Lucas Okawachi,68,Deluxe,2025-12-31,2026-01-13,Agencia,3700.72,,13
+Paulo Okawachi,80,Deluxe,2025-10-09,2025-10-13,Site Oficial,1041.8,5.0,4
+Paulo Costa,69,Deluxe,2025-10-02,2025-10-12,Booking.com,2697.07,5.0,10
+Ana Chiavini,21,Deluxe,2025-07-10,2025-07-11,Agencia,252.89,3.0,1
+Paulo Silva,40,Suite,2025-09-16,2025-09-25,Agencia,3995.47,,9
+Fernanda Oliveira,32,Deluxe,2025-01-28,2025-02-01,Site Oficial,1053.63,2.0,4
+Joao Pereira,60,Presidencial,2025-04-07,2025-04-14,Agencia,6854.58,5.0,7
+Felipe Chiavini,46,Standard,2025-10-03,2025-10-15,Booking.com,2025.66,3.0,12
+Lucas Santos,53,Standard,2025-01-17,2025-01-31,Site Oficial,2051.74,2.0,14
+Carlos Alves,30,Standard,2025-07-01,2025-07-04,Booking.com,465.9,5.0,3
+Felipe Silva,49,Deluxe,2025-02-09,2025-02-19,Booking.com,2828.8,3.0,10
+Luyz Alves,76,Suite,2025-10-01,2025-10-13,Site Oficial,4673.93,3.0,12
+Paulo Costa,45,Standard,2025-03-03,2025-03-06,Agencia,499.81,3.0,3
+Felipe Santos,83,Suite,2025-12-23,2026-01-06,Booking.com,5590.97,2.0,14
+Julia Oliveira,59,Standard,2025-05-07,2025-05-15,Booking.com,1187.84,3.0,8
+Paulo Silva,62,Suite,2025-04-08,2025-04-16,Booking.com,3671.51,1.0,8
+Joao Alves,79,Standard,2025-02-14,2025-02-25,Booking.com,1506.84,4.0,11
+Paulo Chiavini,74,Standard,2025-11-26,2025-12-08,Site Oficial,2135.91,2.0,12
+Paulo Okawachi,23,Standard,2025-06-05,2025-06-06,Site Oficial,145.45,5.0,1
+Felipe Santos,45,Standard,2026-01-01,2026-01-11,Direto no Balcao,1660.08,3.0,10
+Felipe Oliveira,45,Standard,2025-03-15,2025-03-17,Direto no Balcao,330.77,,2
+Julia Santos,61,Standard,2025-06-26,2025-07-04,Booking.com,1405.2,5.0,8
+Julia Oliveira,47,Suite,2025-04-14,2025-04-15,Agencia,458.53,3.0,1
+Fernanda Pereira,79,Deluxe,2025-07-18,2025-07-30,Booking.com,2818.55,5.0,12
+Maria Oliveira,79,Standard,2025-04-25,2025-05-03,Agencia,1306.91,5.0,8
+Carlos Alves,18,Deluxe,2025-10-27,2025-11-04,Booking.com,1968.82,,8
+Luyz Oliveira,44,Deluxe,2025-07-13,2025-07-15,Direto no Balcao,549.3,4.0,2
+Fernanda Pereira,79,Standard,2025-08-29,2025-09-02,Direto no Balcao,585.65,2.0,4
+Joao Alves,20,Standard,2025-06-07,2025-06-13,Agencia,859.99,4.0,6
+Lucas Okawachi,44,Standard,2025-04-20,2025-05-02,Booking.com,1951.49,4.0,12
+Paulo Silva,26,Standard,2025-05-20,2025-05-31,Agencia,1688.61,4.0,11
+Ana Santos,79,Deluxe,2025-05-10,2025-05-19,Direto no Balcao,2699.86,3.0,9
+Fernanda Costa,54,Standard,2025-01-28,2025-02-05,Booking.com,1345.11,5.0,8
+Fernanda Alves,68,Deluxe,2025-08-11,2025-08-23,Booking.com,3408.18,,12
+Paulo Silva,61,Deluxe,2025-01-07,2025-01-15,Agencia,2070.52,3.0,8
+Felipe Silva,41,Standard,2025-02-05,2025-02-12,Site Oficial,1171.48,2.0,7
+Carlos Silva,76,Deluxe,2025-10-18,2025-11-01,Agencia,3351.49,3.0,14
+Julia Silva,49,Standard,2025-05-11,2025-05-24,Direto no Balcao,2155.41,5.0,13
+Fernanda Pereira,69,Presidencial,2025-06-19,2025-06-28,Direto no Balcao,8604.62,5.0,9
+Luyz Chiavini,79,Standard,2025-07-19,2025-07-21,Direto no Balcao,348.16,4.0,2
+Julia Alves,75,Suite,2025-10-02,2025-10-05,Direto no Balcao,1197.41,4.0,3
+Lucas Oliveira,69,Deluxe,2025-11-05,2025-11-15,Direto no Balcao,2789.49,4.0,10
+Maria Chiavini,29,Standard,2025-09-02,2025-09-10,Site Oficial,1340.08,3.0,8
+Paulo Alves,56,Deluxe,2025-09-02,2025-09-16,Booking.com,3173.85,4.0,14
+Ana Silva,19,Presidencial,2025-10-26,2025-11-01,Agencia,6041.14,5.0,6
+Ana Silva,20,Deluxe,2025-04-04,2025-04-14,Agencia,2930.79,,10
+Paulo Chiavini,73,Suite,2025-09-25,2025-10-04,Direto no Balcao,3521.27,,9
+Paulo Oliveira,76,Suite,2025-06-29,2025-07-09,Agencia,3731.29,,10
+Lucas Chiavini,19,Standard,2025-10-31,2025-11-04,Direto no Balcao,717.95,4.0,4
+Luyz Pereira,19,Standard,2025-10-14,2025-10-22,Site Oficial,1273.04,4.0,8
+Luyz Santos,71,Deluxe,2025-10-16,2025-10-26,Site Oficial,2983.82,5.0,10
+Julia Silva,18,Standard,2025-01-10,2025-01-13,Booking.com,433.65,,3
+Ana Alves,36,Suite,2025-06-29,2025-07-02,Site Oficial,1196.48,2.0,3
+Felipe Pereira,19,Suite,2025-06-25,2025-07-03,Site Oficial,3566.38,3.0,8
+Fernanda Pereira,70,Standard,2025-10-22,2025-10-27,Booking.com,676.0,2.0,5
+Carlos Costa,61,Standard,2025-11-10,2025-11-13,Agencia,461.76,4.0,3
+Carlos Okawachi,49,Deluxe,2025-04-25,2025-05-05,Direto no Balcao,2894.93,3.0,10
+Maria Silva,49,Standard,2025-04-29,2025-05-10,Direto no Balcao,1714.73,3.0,11
+Julia Chiavini,72,Suite,2025-04-23,2025-04-24,Agencia,447.31,2.0,1
+Julia Okawachi,73,Standard,2025-05-21,2025-05-24,Booking.com,535.94,3.0,3
+Luyz Costa,34,Deluxe,2025-08-16,2025-08-28,Agencia,2976.11,5.0,12
+Felipe Silva,55,Standard,2025-05-31,2025-06-09,Site Oficial,1547.96,3.0,9
+Julia Pereira,41,Deluxe,2025-02-03,2025-02-08,Booking.com,1139.56,5.0,5
+Joao Chiavini,28,Standard,2025-10-20,2025-11-01,Booking.com,1988.38,4.0,12
+Felipe Pereira,33,Deluxe,2025-03-29,2025-04-08,Booking.com,2843.08,5.0,10
+Fernanda Costa,76,Standard,2025-10-02,2025-10-04,Direto no Balcao,272.2,2.0,2
+Julia Silva,20,Deluxe,2025-04-06,2025-04-13,Agencia,1664.01,,7
+Joao Chiavini,37,Suite,2025-05-14,2025-05-16,Booking.com,858.78,4.0,2
+Felipe Oliveira,76,Standard,2025-03-05,2025-03-09,Booking.com,671.3,,4
+Fernanda Santos,53,Standard,2025-06-16,2025-06-28,Booking.com,1638.71,,12
+Felipe Okawachi,36,Standard,2025-04-17,2025-04-24,Agencia,1231.7,3.0,7
+Felipe Oliveira,84,Deluxe,2025-06-06,2025-06-10,Direto no Balcao,976.07,2.0,4
+Julia Silva,36,Deluxe,2025-02-12,2025-02-19,Site Oficial,1923.69,3.0,7
+Joao Silva,37,Deluxe,2025-10-27,2025-11-03,Direto no Balcao,1906.17,4.0,7
+Fernanda Santos,69,Standard,2025-08-22,2025-08-23,Booking.com,137.23,3.0,1
+Felipe Santos,50,Standard,2025-09-08,2025-09-14,Direto no Balcao,910.53,3.0,6
+Carlos Oliveira,57,Deluxe,2025-05-19,2025-05-28,Direto no Balcao,2558.69,4.0,9
+Julia Chiavini,56,Standard,2025-03-29,2025-03-31,Site Oficial,300.29,1.0,2
+Paulo Chiavini,18,Presidencial,2025-02-18,2025-03-04,Agencia,15838.98,2.0,14
+Julia Alves,28,Standard,2025-09-29,2025-10-02,Agencia,457.91,4.0,3
+Julia Pereira,74,Deluxe,2025-02-05,2025-02-15,Direto no Balcao,2928.83,2.0,10
+Luyz Pereira,67,Standard,2025-01-30,2025-02-04,Direto no Balcao,813.77,4.0,5
+Paulo Chiavini,40,Standard,2025-04-07,2025-04-16,Agencia,1554.96,4.0,9
+Maria Silva,48,Deluxe,2025-08-11,2025-08-15,Agencia,1092.31,4.0,4
+Felipe Pereira,59,Deluxe,2025-08-23,2025-08-24,Site Oficial,243.59,5.0,1
+Lucas Costa,24,Presidencial,2025-10-11,2025-10-15,Booking.com,4123.89,4.0,4
+Julia Oliveira,33,Standard,2025-10-12,2025-10-18,Direto no Balcao,1015.24,4.0,6
+Carlos Santos,77,Standard,2025-03-28,2025-04-02,Agencia,855.97,4.0,5
+Carlos Chiavini,19,Deluxe,2025-01-27,2025-02-10,Direto no Balcao,3591.59,5.0,14
+Joao Santos,18,Deluxe,2025-05-02,2025-05-15,Direto no Balcao,3633.03,5.0,13
+Lucas Alves,65,Standard,2025-11-16,2025-11-17,Agencia,144.41,5.0,1
+Ana Pereira,29,Standard,2025-05-03,2025-05-07,Site Oficial,701.81,5.0,4
+Joao Silva,54,Standard,2025-11-01,2025-11-07,Direto no Balcao,941.91,2.0,6
+Maria Okawachi,49,Suite,2025-05-06,2025-05-19,Site Oficial,5988.7,3.0,13
+Julia Santos,26,Standard,2025-05-24,2025-06-03,Agencia,1379.47,1.0,10
+Felipe Chiavini,36,Standard,2025-08-15,2025-08-25,Booking.com,1498.24,,10
+Paulo Silva,65,Standard,2025-04-25,2025-05-09,Booking.com,2281.96,5.0,14
+Maria Costa,20,Standard,2025-03-03,2025-03-07,Direto no Balcao,568.83,5.0,4
+Felipe Silva,37,Standard,2025-01-10,2025-01-24,Agencia,2219.38,3.0,14
+Carlos Oliveira,41,Deluxe,2025-12-14,2025-12-23,Site Oficial,2253.88,5.0,9
+Lucas Pereira,71,Standard,2025-01-26,2025-01-31,Direto no Balcao,721.14,3.0,5
+Joao Silva,50,Suite,2025-09-04,2025-09-12,Agencia,3658.32,1.0,8
+Julia Okawachi,41,Standard,2025-11-28,2025-12-07,Agencia,1560.32,4.0,9
+Carlos Alves,53,Deluxe,2025-10-02,2025-10-12,Site Oficial,2736.94,4.0,10
+Carlos Alves,55,Suite,2025-04-18,2025-04-23,Direto no Balcao,1964.15,4.0,5
+Joao Chiavini,42,Deluxe,2025-06-08,2025-06-14,Agencia,1772.72,5.0,6
+Maria Costa,35,Deluxe,2025-06-06,2025-06-07,Agencia,228.38,2.0,1
+Ana Santos,83,Standard,2025-11-17,2025-11-28,Agencia,1511.24,4.0,11
+Felipe Pereira,71,Standard,2025-01-29,2025-02-10,Site Oficial,1930.99,4.0,12
+Joao Chiavini,52,Deluxe,2025-04-17,2025-04-24,Direto no Balcao,2011.97,3.0,7
+Ana Alves,78,Presidencial,2025-08-01,2025-08-05,Direto no Balcao,4178.65,5.0,4
+Luyz Oliveira,58,Deluxe,2025-04-15,2025-04-26,Direto no Balcao,3221.82,5.0,11
+Ana Costa,50,Deluxe,2025-04-21,2025-04-23,Direto no Balcao,523.56,5.0,2
+Lucas Costa,50,Deluxe,2025-11-12,2025-11-17,Booking.com,1436.6,5.0,5
+Joao Silva,31,Standard,2025-03-12,2025-03-24,Booking.com,1869.37,5.0,12
+Felipe Chiavini,38,Standard,2025-12-11,2025-12-14,Direto no Balcao,503.11,3.0,3
+Lucas Okawachi,65,Deluxe,2025-08-01,2025-08-07,Site Oficial,1749.43,5.0,6
+Ana Oliveira,37,Presidencial,2025-09-17,2025-09-25,Booking.com,8619.72,3.0,8
+Paulo Santos,25,Standard,2025-08-02,2025-08-09,Agencia,986.25,3.0,7
+Lucas Alves,24,Deluxe,2025-08-25,2025-08-28,Booking.com,813.89,2.0,3
+Lucas Okawachi,84,Standard,2025-03-25,2025-04-02,Agencia,1135.39,5.0,8
+Julia Chiavini,34,Deluxe,2025-04-05,2025-04-07,Direto no Balcao,458.04,5.0,2
+Fernanda Oliveira,50,Standard,2025-02-01,2025-02-11,Booking.com,1718.2,3.0,10
+Maria Oliveira,65,Standard,2025-11-24,2025-12-03,Site Oficial,1371.91,5.0,9
+Luyz Oliveira,76,Deluxe,2025-08-24,2025-08-28,Booking.com,1133.41,,4
+Joao Okawachi,39,Standard,2025-02-15,2025-02-16,Booking.com,164.39,2.0,1
+Joao Alves,47,Deluxe,2025-01-09,2025-01-17,Booking.com,1974.11,3.0,8
+Felipe Pereira,55,Deluxe,2025-04-19,2025-04-26,Direto no Balcao,1909.1,5.0,7
+Paulo Pereira,68,Suite,2025-03-17,2025-03-28,Site Oficial,4840.36,3.0,11
+Fernanda Alves,71,Standard,2025-03-11,2025-03-24,Booking.com,1871.57,4.0,13
+Carlos Santos,25,Standard,2025-03-03,2025-03-08,Site Oficial,897.8,2.0,5
+Joao Oliveira,44,Standard,2025-09-07,2025-09-17,Direto no Balcao,1596.16,4.0,10
+Maria Silva,44,Presidencial,2025-01-04,2025-01-17,Agencia,15363.72,5.0,13
+Carlos Silva,38,Suite,2025-04-13,2025-04-18,Booking.com,2139.26,5.0,5
+Maria Oliveira,47,Deluxe,2025-10-08,2025-10-15,Site Oficial,1785.27,5.0,7
+Maria Okawachi,45,Suite,2025-05-31,2025-06-05,Site Oficial,1964.35,5.0,5
+Paulo Alves,81,Deluxe,2025-02-25,2025-03-05,Direto no Balcao,2066.99,5.0,8
+Felipe Chiavini,78,Deluxe,2025-08-04,2025-08-15,Booking.com,2501.47,5.0,11
+Felipe Okawachi,65,Standard,2025-12-31,2026-01-13,Agencia,2174.06,1.0,13
+Luyz Alves,36,Deluxe,2025-12-25,2025-12-31,Site Oficial,1517.83,4.0,6
+Paulo Alves,21,Standard,2025-01-10,2025-01-23,Booking.com,2133.41,1.0,13
+Lucas Silva,52,Suite,2025-12-01,2025-12-06,Agencia,2355.3,5.0,5
+Felipe Okawachi,81,Deluxe,2025-01-27,2025-02-05,Site Oficial,2483.69,3.0,9
+Maria Chiavini,66,Deluxe,2025-06-02,2025-06-13,Site Oficial,2918.05,4.0,11
+Lucas Okawachi,34,Standard,2025-12-11,2025-12-13,Agencia,353.07,3.0,2
+Paulo Oliveira,61,Standard,2025-12-05,2025-12-06,Agencia,166.97,5.0,1
+Luyz Chiavini,47,Standard,2025-10-06,2025-10-14,Direto no Balcao,1266.33,5.0,8
+Ana Chiavini,63,Standard,2025-01-10,2025-01-22,Booking.com,1923.38,4.0,12
+Carlos Costa,23,Standard,2025-11-16,2025-11-19,Booking.com,455.81,5.0,3
+Julia Alves,54,Suite,2025-10-19,2025-11-02,Direto no Balcao,5591.4,3.0,14
+Joao Santos,41,Deluxe,2025-09-23,2025-10-04,Site Oficial,3055.44,4.0,11
+Luyz Costa,63,Standard,2025-02-19,2025-03-03,Agencia,1709.84,5.0,12
+Joao Alves,70,Standard,2025-06-09,2025-06-21,Agencia,1821.6,3.0,12
+Paulo Santos,77,Standard,2025-12-24,2026-01-05,Agencia,1683.28,,12
+Ana Silva,80,Deluxe,2025-02-09,2025-02-16,Site Oficial,1707.6,2.0,7
+Carlos Chiavini,49,Deluxe,2025-03-06,2025-03-16,Agencia,2656.26,1.0,10
+Carlos Oliveira,50,Suite,2025-03-31,2025-04-13,Agencia,4734.22,,13
+Paulo Costa,84,Standard,2025-02-06,2025-02-17,Direto no Balcao,1841.39,2.0,11
+Maria Costa,35,Presidencial,2025-02-06,2025-02-14,Site Oficial,7311.91,,8
+Joao Okawachi,42,Suite,2025-11-26,2025-12-09,Booking.com,6160.86,,13
+Ana Santos,71,Standard,2025-10-27,2025-11-09,Direto no Balcao,2097.24,2.0,13
+Carlos Santos,75,Suite,2025-01-31,2025-02-06,Direto no Balcao,2873.18,4.0,6
+Lucas Chiavini,84,Standard,2025-10-11,2025-10-23,Booking.com,1863.98,3.0,12
+Julia Santos,63,Suite,2025-04-03,2025-04-13,Direto no Balcao,4107.62,4.0,10
+Felipe Santos,41,Standard,2025-08-20,2025-09-03,Site Oficial,2181.94,2.0,14
+Ana Chiavini,49,Suite,2025-07-11,2025-07-20,Agencia,4081.28,3.0,9
+Joao Costa,64,Suite,2025-10-28,2025-11-04,Site Oficial,3009.31,4.0,7
+Maria Costa,40,Suite,2025-02-04,2025-02-14,Booking.com,3742.05,4.0,10
+Joao Okawachi,83,Deluxe,2025-07-16,2025-07-21,Booking.com,1430.62,,5
+Carlos Costa,44,Standard,2025-02-07,2025-02-15,Direto no Balcao,1402.47,5.0,8
+Lucas Oliveira,19,Standard,2025-08-09,2025-08-11,Site Oficial,326.92,5.0,2
+Lucas Costa,34,Standard,2025-06-05,2025-06-12,Site Oficial,1236.4,4.0,7
+Joao Chiavini,50,Standard,2025-10-16,2025-10-20,Booking.com,596.91,5.0,4
+Maria Silva,26,Deluxe,2025-08-10,2025-08-19,Site Oficial,2683.33,3.0,9
+Maria Chiavini,60,Standard,2025-08-31,2025-09-12,Booking.com,1691.51,5.0,12
+Ana Alves,65,Presidencial,2025-02-24,2025-02-25,Site Oficial,1135.05,,1
+Carlos Okawachi,56,Deluxe,2025-09-16,2025-09-23,Site Oficial,1959.36,3.0,7
+Carlos Oliveira,59,Suite,2025-02-24,2025-03-02,Site Oficial,2493.93,5.0,6
+Felipe Costa,43,Standard,2025-09-27,2025-10-05,Booking.com,1132.55,5.0,8
+Carlos Costa,42,Suite,2025-10-16,2025-10-17,Site Oficial,441.16,5.0,1
+Julia Alves,41,Standard,2025-11-18,2025-11-19,Booking.com,162.04,3.0,1
+Luyz Pereira,30,Deluxe,2025-08-01,2025-08-10,Booking.com,2341.51,3.0,9
+Lucas Oliveira,77,Deluxe,2025-02-02,2025-02-12,Site Oficial,2679.32,1.0,10
+Fernanda Chiavini,24,Standard,2025-07-21,2025-07-27,Site Oficial,873.45,5.0,6
+Carlos Alves,74,Deluxe,2025-07-19,2025-07-29,Direto no Balcao,2512.22,1.0,10
+Lucas Okawachi,53,Standard,2025-10-27,2025-11-01,Booking.com,723.6,5.0,5
+Paulo Santos,62,Standard,2025-01-06,2025-01-07,Booking.com,160.0,2.0,1
+Carlos Pereira,37,Standard,2025-10-26,2025-11-01,Agencia,1007.74,3.0,6
+Ana Costa,82,Standard,2025-02-01,2025-02-07,Booking.com,943.31,4.0,6
+Luyz Silva,25,Standard,2025-11-15,2025-11-18,Direto no Balcao,475.8,5.0,3
+Paulo Santos,33,Standard,2025-09-05,2025-09-18,Agencia,1821.46,2.0,13
+Luyz Okawachi,31,Presidencial,2025-12-12,2025-12-20,Agencia,8836.27,4.0,8
+Joao Oliveira,32,Deluxe,2025-11-20,2025-12-04,Agencia,3578.9,4.0,14
+Carlos Costa,83,Presidencial,2025-08-20,2025-08-21,Site Oficial,1102.88,3.0,1
+Maria Costa,49,Standard,2025-08-25,2025-08-26,Site Oficial,167.57,2.0,1
+Fernanda Okawachi,80,Standard,2025-10-12,2025-10-18,Booking.com,873.62,5.0,6
+Paulo Alves,68,Deluxe,2025-04-18,2025-04-28,Agencia,2576.99,4.0,10
+Ana Santos,42,Standard,2025-10-22,2025-11-04,Direto no Balcao,2121.25,1.0,13
+Luyz Pereira,75,Standard,2025-10-31,2025-11-01,Site Oficial,151.73,5.0,1
+Maria Silva,80,Deluxe,2025-06-28,2025-07-04,Direto no Balcao,1538.87,,6
+Ana Chiavini,79,Standard,2025-05-12,2025-05-13,Direto no Balcao,140.51,4.0,1
+Fernanda Costa,39,Deluxe,2025-06-17,2025-07-01,Site Oficial,4170.71,4.0,14
+Joao Okawachi,75,Deluxe,2025-01-15,2025-01-28,Site Oficial,3273.02,5.0,13
+Luyz Pereira,75,Standard,2025-12-01,2025-12-07,Site Oficial,915.25,,6
+Ana Costa,66,Standard,2025-11-10,2025-11-13,Site Oficial,522.45,5.0,3
+Paulo Costa,69,Deluxe,2025-08-02,2025-08-16,Agencia,3686.42,4.0,14
+Ana Costa,59,Standard,2025-10-21,2025-11-04,Agencia,2305.59,4.0,14
+Luyz Santos,32,Standard,2025-12-22,2025-12-30,Agencia,1363.15,5.0,8
+Maria Santos,71,Presidencial,2025-06-04,2025-06-17,Agencia,13801.84,3.0,13
+Carlos Silva,77,Standard,2025-07-08,2025-07-14,Booking.com,926.54,4.0,6
+Fernanda Costa,25,Deluxe,2025-08-16,2025-08-29,Agencia,3078.88,5.0,13
+Luyz Oliveira,70,Presidencial,2025-07-26,2025-08-06,Site Oficial,12324.65,5.0,11
+Felipe Alves,77,Standard,2025-02-04,2025-02-17,Direto no Balcao,2334.18,4.0,13
+Lucas Silva,22,Standard,2025-02-17,2025-02-18,Agencia,137.05,5.0,1
+Joao Chiavini,23,Standard,2025-02-26,2025-03-03,Booking.com,768.5,2.0,5
+Felipe Santos,64,Standard,2025-03-20,2025-03-28,Site Oficial,1254.6,4.0,8
+Ana Alves,72,Standard,2025-01-15,2025-01-18,Direto no Balcao,473.8,5.0,3
+Felipe Alves,57,Deluxe,2025-09-18,2025-09-30,Direto no Balcao,3055.03,3.0,12
+Maria Silva,69,Standard,2025-11-06,2025-11-12,Agencia,910.16,3.0,6
+Paulo Costa,33,Deluxe,2025-04-30,2025-05-05,Direto no Balcao,1238.4,,5
+Lucas Chiavini,30,Presidencial,2025-02-26,2025-03-04,Agencia,7092.9,3.0,6
+Ana Alves,47,Suite,2025-02-01,2025-02-11,Agencia,4381.76,3.0,10
+Ana Okawachi,36,Deluxe,2025-05-27,2025-05-28,Site Oficial,243.09,,1
+Fernanda Santos,34,Standard,2025-06-12,2025-06-19,Site Oficial,984.59,5.0,7
+Maria Chiavini,80,Deluxe,2025-09-15,2025-09-24,Booking.com,2597.21,5.0,9
+Ana Oliveira,36,Deluxe,2025-04-26,2025-04-28,Site Oficial,525.63,5.0,2
+Lucas Pereira,75,Standard,2025-10-06,2025-10-16,Site Oficial,1617.3,2.0,10
+Julia Oliveira,72,Standard,2025-08-27,2025-09-01,Agencia,888.92,5.0,5
+Felipe Pereira,79,Suite,2025-04-03,2025-04-13,Site Oficial,3655.66,4.0,10
+Maria Alves,40,Standard,2025-09-06,2025-09-10,Agencia,674.21,5.0,4
+Julia Alves,26,Standard,2025-01-13,2025-01-19,Agencia,1012.85,4.0,6
+Lucas Costa,29,Standard,2025-09-07,2025-09-13,Site Oficial,942.74,4.0,6
+Lucas Oliveira,18,Standard,2025-04-01,2025-04-12,Booking.com,1766.16,4.0,11
+Luyz Costa,75,Suite,2025-08-15,2025-08-17,Booking.com,880.66,4.0,2
+Fernanda Chiavini,18,Deluxe,2025-08-14,2025-08-16,Direto no Balcao,505.57,5.0,2
+Carlos Santos,51,Deluxe,2025-08-22,2025-08-26,Direto no Balcao,1114.58,4.0,4
+Ana Alves,65,Standard,2025-12-13,2025-12-14,Site Oficial,146.51,4.0,1
+Ana Pereira,18,Standard,2025-08-09,2025-08-18,Booking.com,1471.26,4.0,9
+Paulo Santos,33,Standard,2025-03-28,2025-04-11,Agencia,2258.0,4.0,14
+Maria Chiavini,78,Standard,2025-10-29,2025-11-12,Direto no Balcao,2266.82,5.0,14
+Ana Silva,81,Standard,2025-10-29,2025-11-11,Agencia,2175.81,5.0,13
+Luyz Pereira,80,Deluxe,2025-10-27,2025-11-03,Direto no Balcao,1667.29,5.0,7
+Joao Alves,39,Standard,2025-09-18,2025-09-30,Site Oficial,1852.18,,12
+Lucas Santos,84,Deluxe,2025-02-25,2025-03-04,Booking.com,1960.14,5.0,7
+Luyz Silva,43,Standard,2025-05-14,2025-05-17,Direto no Balcao,430.26,4.0,3
+Ana Pereira,33,Standard,2025-05-07,2025-05-18,Booking.com,1689.43,5.0,11
+Felipe Silva,68,Standard,2025-11-22,2025-12-04,Agencia,2145.39,,12
+Fernanda Oliveira,74,Presidencial,2025-06-14,2025-06-17,Site Oficial,2721.17,4.0,3
+Julia Oliveira,46,Suite,2025-02-12,2025-02-13,Booking.com,381.0,5.0,1
+Felipe Alves,64,Presidencial,2025-06-15,2025-06-18,Site Oficial,2763.29,5.0,3
+Lucas Okawachi,79,Standard,2025-05-06,2025-05-09,Booking.com,434.25,4.0,3
+Julia Okawachi,33,Standard,2025-02-06,2025-02-10,Agencia,637.57,3.0,4
+Paulo Okawachi,65,Deluxe,2025-01-03,2025-01-07,Agencia,1153.3,4.0,4
+Maria Oliveira,56,Standard,2025-11-25,2025-11-28,Site Oficial,456.09,,3
+Julia Oliveira,50,Suite,2025-11-13,2025-11-23,Agencia,4323.87,5.0,10
+Joao Silva,40,Standard,2025-01-16,2025-01-28,Direto no Balcao,1845.56,4.0,12
+Luyz Okawachi,27,Standard,2025-10-30,2025-11-07,Booking.com,1131.26,,8
+Felipe Santos,51,Standard,2025-11-19,2025-11-27,Agencia,1121.24,4.0,8
+Carlos Pereira,69,Standard,2025-06-03,2025-06-16,Direto no Balcao,2013.35,4.0,13
+Ana Alves,27,Deluxe,2025-11-13,2025-11-26,Site Oficial,3765.36,5.0,13
+Ana Pereira,36,Standard,2025-06-25,2025-06-26,Direto no Balcao,140.23,5.0,1
+Paulo Silva,75,Standard,2025-01-23,2025-01-30,Site Oficial,1190.75,3.0,7
+Ana Silva,18,Standard,2025-03-09,2025-03-20,Site Oficial,1512.0,4.0,11
+Paulo Santos,21,Standard,2025-01-26,2025-01-28,Booking.com,272.83,4.0,2
+Carlos Costa,33,Deluxe,2025-11-11,2025-11-12,Booking.com,299.82,4.0,1
+Paulo Pereira,41,Suite,2025-06-26,2025-06-29,Direto no Balcao,1353.87,4.0,3
+Ana Okawachi,19,Presidencial,2025-09-26,2025-09-30,Booking.com,4702.98,4.0,4
+Carlos Chiavini,49,Deluxe,2025-12-20,2026-01-02,Booking.com,3483.99,3.0,13
+Julia Chiavini,41,Standard,2025-08-16,2025-08-22,Booking.com,901.52,4.0,6
+Ana Pereira,29,Deluxe,2025-01-07,2025-01-17,Direto no Balcao,2897.43,2.0,10
+Felipe Oliveira,67,Standard,2025-09-20,2025-10-04,Agencia,1924.84,4.0,14
+Luyz Costa,52,Standard,2025-05-09,2025-05-14,Booking.com,747.75,5.0,5
+Felipe Okawachi,50,Suite,2025-10-01,2025-10-15,Booking.com,5354.33,5.0,14
+Felipe Costa,50,Standard,2025-08-09,2025-08-13,Direto no Balcao,602.13,4.0,4
+Maria Alves,78,Suite,2025-04-27,2025-05-05,Agencia,3013.52,2.0,8
+Luyz Oliveira,68,Standard,2025-03-18,2025-03-29,Booking.com,1724.52,3.0,11
+Joao Okawachi,60,Deluxe,2025-06-20,2025-07-02,Site Oficial,2930.36,4.0,12
+Luyz Alves,29,Deluxe,2025-09-29,2025-10-13,Direto no Balcao,3728.92,3.0,14
+Carlos Chiavini,84,Suite,2025-03-25,2025-03-29,Booking.com,1530.32,4.0,4
+Paulo Alves,82,Deluxe,2025-10-17,2025-10-30,Booking.com,3449.14,3.0,13
+Ana Oliveira,50,Deluxe,2025-08-11,2025-08-21,Site Oficial,2718.98,5.0,10
+Lucas Alves,57,Standard,2025-03-23,2025-04-04,Site Oficial,1965.59,4.0,12
+Julia Oliveira,60,Deluxe,2026-01-01,2026-01-14,Direto no Balcao,3166.58,3.0,13
+Paulo Silva,61,Standard,2025-10-08,2025-10-10,Direto no Balcao,319.7,5.0,2
+Ana Silva,46,Deluxe,2025-11-05,2025-11-08,Site Oficial,721.87,3.0,3
+Julia Oliveira,30,Deluxe,2025-07-17,2025-07-23,Direto no Balcao,1571.74,2.0,6
+Ana Okawachi,29,Deluxe,2025-12-18,2025-12-26,Site Oficial,2092.71,4.0,8
+Julia Alves,63,Standard,2025-08-20,2025-08-28,Booking.com,1331.32,4.0,8
+Julia Alves,19,Standard,2025-06-16,2025-06-27,Site Oficial,1506.52,5.0,11
+Lucas Pereira,52,Deluxe,2025-12-25,2026-01-03,Site Oficial,2500.11,3.0,9
+Joao Santos,25,Standard,2025-08-19,2025-08-26,Agencia,1094.64,4.0,7
+Luyz Silva,43,Standard,2025-10-01,2025-10-14,Site Oficial,2281.32,3.0,13
+Lucas Okawachi,51,Standard,2025-02-17,2025-02-19,Site Oficial,355.99,2.0,2
+Ana Pereira,24,Presidencial,2025-08-22,2025-08-30,Agencia,7530.55,5.0,8
+Luyz Chiavini,75,Deluxe,2025-08-26,2025-09-02,Direto no Balcao,1622.45,5.0,7
+Maria Chiavini,46,Standard,2025-03-03,2025-03-11,Agencia,1356.11,3.0,8
+Luyz Costa,53,Standard,2025-11-22,2025-12-04,Booking.com,1872.32,4.0,12
+Fernanda Okawachi,38,Standard,2025-12-18,2025-12-21,Agencia,453.49,3.0,3
+Julia Silva,53,Deluxe,2025-12-16,2025-12-23,Booking.com,1694.98,5.0,7
+Maria Chiavini,27,Deluxe,2025-12-29,2026-01-08,Direto no Balcao,2910.86,2.0,10
+Ana Oliveira,41,Standard,2025-06-24,2025-07-07,Agencia,2051.53,1.0,13
+Paulo Okawachi,81,Standard,2025-03-05,2025-03-14,Agencia,1257.23,4.0,9
+Luyz Alves,66,Standard,2025-06-01,2025-06-04,Direto no Balcao,438.42,4.0,3
+Felipe Okawachi,53,Deluxe,2025-05-13,2025-05-27,Booking.com,3646.74,4.0,14
+Felipe Okawachi,41,Deluxe,2025-06-11,2025-06-21,Agencia,2606.39,2.0,10
+Luyz Silva,40,Standard,2025-02-05,2025-02-11,Booking.com,894.52,3.0,6
+Paulo Silva,79,Standard,2025-04-03,2025-04-05,Agencia,287.12,4.0,2
+Julia Chiavini,54,Standard,2025-01-22,2025-01-24,Site Oficial,282.49,3.0,2
+Maria Alves,29,Presidencial,2025-01-01,2025-01-06,Agencia,5712.58,5.0,5
+Ana Costa,72,Standard,2025-12-18,2025-12-23,Direto no Balcao,808.86,2.0,5
+Joao Okawachi,30,Deluxe,2025-10-30,2025-11-12,Direto no Balcao,3543.58,4.0,13
+Lucas Silva,40,Deluxe,2025-08-05,2025-08-12,Booking.com,1919.95,5.0,7
+Joao Okawachi,47,Standard,2025-10-13,2025-10-25,Agencia,1632.97,3.0,12
+Fernanda Oliveira,79,Standard,2025-09-14,2025-09-25,Booking.com,1910.34,5.0,11
+Lucas Costa,30,Deluxe,2025-11-03,2025-11-17,Site Oficial,3502.97,3.0,14
+Lucas Alves,76,Deluxe,2025-05-09,2025-05-22,Site Oficial,2956.73,,13
+Julia Oliveira,36,Deluxe,2025-08-03,2025-08-10,Direto no Balcao,2064.89,4.0,7
+Paulo Costa,66,Deluxe,2025-09-21,2025-09-26,Booking.com,1217.56,3.0,5
+Maria Santos,29,Standard,2025-03-06,2025-03-20,Direto no Balcao,2027.62,4.0,14
+Felipe Pereira,78,Presidencial,2025-03-22,2025-03-28,Agencia,6063.12,3.0,6
+Fernanda Santos,36,Deluxe,2025-09-11,2025-09-19,Booking.com,2365.83,5.0,8
+Felipe Silva,26,Standard,2025-05-12,2025-05-22,Booking.com,1637.57,5.0,10
+Paulo Oliveira,45,Presidencial,2025-04-17,2025-04-30,Agencia,12144.68,5.0,13
+Fernanda Oliveira,69,Deluxe,2025-06-29,2025-07-13,Agencia,3932.85,,14
+Fernanda Pereira,33,Deluxe,2025-10-23,2025-11-04,Direto no Balcao,2771.89,5.0,12
+Carlos Alves,29,Deluxe,2025-06-14,2025-06-18,Direto no Balcao,1199.97,4.0,4
+Ana Alves,42,Suite,2025-09-21,2025-10-04,Agencia,5251.18,3.0,13
+Joao Silva,69,Deluxe,2025-05-24,2025-05-31,Direto no Balcao,2060.36,4.0,7
+Julia Alves,70,Standard,2025-07-07,2025-07-13,Agencia,921.58,1.0,6
+Julia Silva,40,Standard,2025-06-24,2025-07-04,Booking.com,1719.63,5.0,10
+Felipe Santos,33,Suite,2025-05-11,2025-05-13,Booking.com,802.65,4.0,2
+Joao Costa,74,Standard,2025-01-10,2025-01-18,Site Oficial,1092.54,1.0,8
+Carlos Alves,56,Standard,2025-10-31,2025-11-10,Booking.com,1508.33,2.0,10
+Paulo Oliveira,70,Standard,2025-02-21,2025-03-02,Agencia,1501.47,4.0,9
+Julia Costa,59,Standard,2025-10-03,2025-10-08,Direto no Balcao,856.37,4.0,5
+Paulo Silva,75,Deluxe,2025-06-23,2025-07-03,Site Oficial,2953.99,4.0,10
+Ana Okawachi,56,Suite,2025-05-06,2025-05-10,Direto no Balcao,1887.17,4.0,4
+Maria Okawachi,31,Standard,2025-11-12,2025-11-18,Agencia,969.94,4.0,6
+Paulo Pereira,22,Standard,2025-01-17,2025-01-25,Booking.com,1304.65,5.0,8
+Felipe Pereira,52,Standard,2025-04-26,2025-05-07,Site Oficial,1556.95,3.0,11
+Julia Pereira,35,Suite,2025-07-09,2025-07-12,Agencia,1284.29,2.0,3
+Fernanda Alves,26,Deluxe,2025-05-22,2025-06-01,Site Oficial,2522.62,4.0,10
+Paulo Okawachi,75,Standard,2025-12-01,2025-12-12,Site Oficial,1745.32,4.0,11
+Fernanda Oliveira,34,Suite,2025-09-30,2025-10-11,Booking.com,4911.01,1.0,11
+Luyz Silva,24,Suite,2025-12-21,2025-12-22,Agencia,455.1,4.0,1
+Fernanda Alves,63,Suite,2025-10-09,2025-10-13,Direto no Balcao,1689.2,2.0,4
+Luyz Okawachi,30,Suite,2025-09-12,2025-09-16,Site Oficial,1471.18,4.0,4
+Fernanda Silva,57,Standard,2025-10-28,2025-10-29,Site Oficial,140.37,4.0,1
+Lucas Silva,59,Deluxe,2025-02-09,2025-02-18,Direto no Balcao,2205.68,4.0,9
+Felipe Costa,26,Standard,2025-01-04,2025-01-07,Agencia,414.21,5.0,3
+Carlos Santos,67,Suite,2025-09-20,2025-09-25,Site Oficial,2271.77,3.0,5
+Lucas Alves,44,Deluxe,2025-07-05,2025-07-11,Site Oficial,1784.92,,6
+Paulo Costa,83,Deluxe,2025-10-25,2025-11-02,Site Oficial,2095.39,4.0,8
+Lucas Santos,22,Deluxe,2025-12-03,2025-12-09,Agencia,1460.79,4.0,6
+Carlos Silva,46,Standard,2025-07-29,2025-08-01,Agencia,432.41,5.0,3
+Paulo Okawachi,54,Deluxe,2025-11-15,2025-11-21,Direto no Balcao,1425.8,5.0,6
+Felipe Santos,55,Presidencial,2025-06-09,2025-06-10,Agencia,1124.89,4.0,1
+Fernanda Costa,25,Suite,2025-07-06,2025-07-10,Agencia,1861.2,4.0,4
+Lucas Alves,82,Standard,2025-04-17,2025-04-23,Booking.com,870.11,2.0,6
+Ana Santos,34,Standard,2025-01-17,2025-01-24,Direto no Balcao,1137.0,1.0,7
+Luyz Silva,62,Standard,2025-03-04,2025-03-15,Site Oficial,1561.0,4.0,11
+Felipe Alves,21,Deluxe,2025-11-27,2025-12-10,Agencia,3170.03,3.0,13
+Ana Okawachi,53,Suite,2025-03-05,2025-03-16,Site Oficial,4173.03,4.0,11
+Felipe Alves,48,Standard,2025-06-03,2025-06-13,Site Oficial,1646.12,2.0,10
+Ana Silva,36,Deluxe,2025-04-04,2025-04-07,Booking.com,681.27,5.0,3
+Luyz Okawachi,78,Suite,2025-07-28,2025-08-06,Agencia,3642.38,5.0,9
+Paulo Alves,71,Deluxe,2025-08-07,2025-08-19,Direto no Balcao,3213.01,,12
+Julia Silva,56,Deluxe,2025-08-04,2025-08-16,Agencia,3212.01,4.0,12
+Ana Oliveira,36,Deluxe,2025-11-17,2025-11-24,Site Oficial,1575.07,5.0,7
+Fernanda Silva,56,Deluxe,2025-03-26,2025-04-09,Direto no Balcao,3499.44,5.0,14
+Joao Santos,84,Standard,2025-08-07,2025-08-08,Agencia,175.48,4.0,1
+Felipe Oliveira,62,Deluxe,2025-02-26,2025-02-28,Site Oficial,486.91,3.0,2
+Joao Chiavini,30,Deluxe,2025-07-07,2025-07-08,Site Oficial,239.55,,1
+Luyz Alves,75,Suite,2025-07-22,2025-08-02,Booking.com,4104.16,4.0,11
+Luyz Pereira,37,Deluxe,2025-03-03,2025-03-12,Booking.com,2224.6,4.0,9
+Paulo Oliveira,78,Deluxe,2025-01-04,2025-01-13,Booking.com,2319.98,3.0,9
+Luyz Pereira,56,Standard,2025-01-13,2025-01-20,Site Oficial,1169.5,2.0,7
+Paulo Santos,18,Standard,2025-12-27,2026-01-06,Agencia,1570.04,5.0,10
+Paulo Oliveira,20,Standard,2025-02-14,2025-02-17,Booking.com,482.04,4.0,3
+Felipe Pereira,79,Standard,2025-12-18,2025-12-31,Agencia,2031.78,3.0,13
+Carlos Okawachi,80,Deluxe,2025-12-25,2025-12-30,Booking.com,1402.87,3.0,5
+Maria Oliveira,42,Presidencial,2025-05-28,2025-06-01,Direto no Balcao,3881.62,4.0,4
+Maria Chiavini,73,Standard,2025-12-16,2025-12-23,Direto no Balcao,1194.45,4.0,7
+Luyz Okawachi,50,Standard,2025-02-27,2025-03-13,Booking.com,2349.88,3.0,14
+Lucas Santos,55,Suite,2025-12-09,2025-12-18,Site Oficial,3462.28,5.0,9
+Lucas Santos,23,Standard,2025-12-25,2026-01-06,Booking.com,1637.47,2.0,12
+Paulo Pereira,75,Deluxe,2025-06-12,2025-06-14,Booking.com,566.55,4.0,2
+Maria Alves,61,Deluxe,2025-05-31,2025-06-13,Site Oficial,3184.94,5.0,13
+Maria Pereira,62,Deluxe,2025-02-10,2025-02-18,Direto no Balcao,2216.09,3.0,8
+Ana Oliveira,49,Standard,2025-05-15,2025-05-24,Agencia,1233.01,5.0,9
+Maria Costa,62,Standard,2025-02-07,2025-02-17,Booking.com,1472.56,5.0,10
+Lucas Santos,78,Deluxe,2025-06-07,2025-06-21,Site Oficial,3987.52,5.0,14
+Maria Chiavini,64,Deluxe,2025-10-07,2025-10-17,Booking.com,2350.18,2.0,10
+Paulo Okawachi,38,Standard,2025-07-05,2025-07-14,Site Oficial,1613.58,2.0,9
+Felipe Chiavini,53,Deluxe,2025-11-07,2025-11-21,Agencia,3365.01,3.0,14
+Maria Santos,36,Standard,2025-12-22,2026-01-01,Agencia,1741.91,4.0,10
+Maria Pereira,37,Deluxe,2025-04-16,2025-04-30,Direto no Balcao,3305.32,5.0,14
+Ana Costa,74,Standard,2025-04-22,2025-04-29,Site Oficial,1148.62,5.0,7
+Carlos Oliveira,35,Presidencial,2025-07-02,2025-07-11,Site Oficial,8108.6,5.0,9
+Carlos Chiavini,64,Standard,2025-02-17,2025-02-26,Direto no Balcao,1275.23,,9
+Julia Oliveira,66,Standard,2025-07-04,2025-07-18,Direto no Balcao,2111.65,5.0,14
+Ana Pereira,31,Standard,2025-09-21,2025-09-24,Site Oficial,452.18,3.0,3
+Maria Alves,32,Standard,2025-05-18,2025-05-22,Direto no Balcao,635.26,3.0,4
+Fernanda Oliveira,48,Suite,2025-04-05,2025-04-07,Agencia,856.79,5.0,2
+Luyz Okawachi,18,Presidencial,2025-02-02,2025-02-12,Booking.com,9802.23,3.0,10
+Felipe Okawachi,71,Standard,2025-06-13,2025-06-16,Agencia,417.37,2.0,3
+Paulo Alves,20,Standard,2025-01-07,2025-01-18,Direto no Balcao,1681.35,4.0,11
+Maria Silva,33,Deluxe,2025-01-11,2025-01-22,Site Oficial,2805.15,5.0,11
+Carlos Oliveira,74,Suite,2025-01-10,2025-01-15,Site Oficial,2001.21,2.0,5
+Joao Pereira,29,Deluxe,2025-01-18,2025-01-23,Agencia,1225.26,5.0,5
+Lucas Pereira,33,Standard,2025-06-29,2025-07-05,Site Oficial,811.39,5.0,6
+Lucas Okawachi,41,Standard,2025-12-29,2026-01-11,Direto no Balcao,1807.98,4.0,13
+Felipe Santos,45,Deluxe,2025-11-20,2025-11-27,Agencia,2038.86,2.0,7
+Lucas Oliveira,25,Standard,2025-06-13,2025-06-20,Site Oficial,1084.64,3.0,7
+Felipe Chiavini,53,Deluxe,2025-11-01,2025-11-02,Booking.com,284.38,5.0,1
+Fernanda Oliveira,25,Standard,2025-12-23,2026-01-06,Booking.com,2473.32,5.0,14
+Paulo Costa,75,Deluxe,2025-10-20,2025-10-22,Direto no Balcao,461.42,5.0,2
+Joao Oliveira,77,Standard,2025-03-29,2025-04-10,Site Oficial,1836.37,4.0,12
+Carlos Chiavini,67,Deluxe,2025-08-05,2025-08-14,Direto no Balcao,2664.97,2.0,9
+Carlos Costa,45,Standard,2025-09-05,2025-09-15,Agencia,1539.13,2.0,10
+Maria Pereira,58,Deluxe,2025-06-21,2025-06-23,Booking.com,556.05,5.0,2
+Julia Okawachi,2,Standard,2025-11-14,2025-11-20,Agencia,931.32,3.0,6
+Felipe Alves,44,Deluxe,2025-06-29,2025-07-10,Site Oficial,2829.43,3.0,11
+Joao Oliveira,80,Deluxe,2025-03-03,2025-03-14,Direto no Balcao,2842.54,4.0,11
+Joao Okawachi,34,Deluxe,2025-09-11,2025-09-12,Direto no Balcao,235.48,1.0,1
+Ana Santos,50,Deluxe,2025-03-23,2025-03-26,Direto no Balcao,858.8,3.0,3
+Ana Silva,46,Deluxe,2025-05-13,2025-05-15,Agencia,549.96,4.0,2
+Paulo Chiavini,30,Suite,2025-10-14,2025-10-17,Booking.com,1255.15,3.0,3
+Felipe Pereira,63,Standard,2025-05-10,2025-05-15,Agencia,820.48,2.0,5
+Paulo Okawachi,52,Suite,2025-09-12,2025-09-23,Agencia,4133.41,5.0,11
+Fernanda Costa,23,Standard,2025-09-08,2025-09-18,Site Oficial,1352.58,5.0,10
+Joao Pereira,64,Standard,2025-12-10,2025-12-16,Site Oficial,911.71,3.0,6
+Julia Alves,42,Standard,2025-04-30,2025-05-09,Site Oficial,1448.94,5.0,9
+Felipe Chiavini,83,Standard,2025-07-16,2025-07-28,Booking.com,1878.76,4.0,12
+Lucas Chiavini,27,Deluxe,2025-06-07,2025-06-18,Booking.com,3010.92,4.0,11
+Carlos Costa,73,Deluxe,2025-07-30,2025-08-09,Site Oficial,2324.61,5.0,10
+Felipe Silva,47,Deluxe,2025-01-13,2025-01-25,Site Oficial,3257.0,5.0,12
+Lucas Costa,22,Deluxe,2025-11-20,2025-12-02,Booking.com,2714.78,5.0,12
+Maria Santos,50,Standard,2025-11-12,2025-11-25,Direto no Balcao,2020.81,2.0,13
+Joao Silva,82,Standard,2025-07-17,2025-07-21,Booking.com,574.97,2.0,4
+Julia Chiavini,35,Standard,2025-08-22,2025-08-29,Booking.com,1076.44,5.0,7
+Fernanda Costa,66,Standard,2025-12-25,2025-12-31,Booking.com,980.58,4.0,6
+Fernanda Silva,28,Standard,2025-05-24,2025-05-26,Site Oficial,325.71,3.0,2
+Ana Silva,43,Standard,2025-12-26,2026-01-05,Direto no Balcao,1365.01,5.0,10
+Ana Oliveira,80,Deluxe,2025-08-06,2025-08-17,Booking.com,3073.53,5.0,11
+Paulo Pereira,76,Deluxe,2025-08-16,2025-08-27,Site Oficial,2923.0,5.0,11
+Carlos Okawachi,44,Presidencial,2025-02-04,2025-02-15,Agencia,12347.33,3.0,11
+Luyz Santos,66,Suite,2025-12-28,2026-01-05,Agencia,3352.91,5.0,8
+Felipe Pereira,50,Deluxe,2025-09-09,2025-09-16,Booking.com,1939.2,1.0,7
+Fernanda Chiavini,18,Standard,2025-08-21,2025-08-28,Agencia,1173.15,1.0,7
+Maria Okawachi,38,Deluxe,2025-10-07,2025-10-21,Direto no Balcao,3214.3,4.0,14
+Carlos Oliveira,72,Deluxe,2025-12-20,2025-12-28,Agencia,1930.98,2.0,8
+Luyz Oliveira,23,Standard,2025-11-15,2025-11-27,Agencia,2009.54,3.0,12
+Felipe Oliveira,22,Standard,2025-08-28,2025-09-09,Direto no Balcao,1845.58,5.0,12
+Lucas Okawachi,20,Suite,2025-06-27,2025-07-10,Booking.com,6020.5,3.0,13
+Carlos Silva,70,Standard,2025-11-24,2025-12-08,Booking.com,2419.95,3.0,14
+Paulo Okawachi,40,Deluxe,2025-06-29,2025-07-10,Direto no Balcao,2684.83,3.0,11
+Paulo Okawachi,70,Deluxe,2025-04-27,2025-04-28,Direto no Balcao,285.17,4.0,1
+Lucas Alves,54,Standard,2025-10-05,2025-10-18,Direto no Balcao,2272.72,4.0,13
+Lucas Chiavini,34,Standard,2025-06-23,2025-06-24,Agencia,168.97,5.0,1
+Carlos Santos,18,Standard,2025-02-17,2025-02-25,Direto no Balcao,1183.41,5.0,8
+Lucas Costa,68,Standard,2025-12-25,2025-12-29,Site Oficial,596.31,4.0,4
+Fernanda Alves,62,Standard,2025-04-24,2025-04-29,Agencia,817.04,5.0,5
+Felipe Oliveira,21,Suite,2025-04-19,2025-04-27,Booking.com,3224.28,2.0,8
+Paulo Chiavini,79,Standard,2025-01-01,2025-01-06,Booking.com,888.63,3.0,5
+Maria Santos,82,Deluxe,2025-05-14,2025-05-24,Booking.com,2867.35,5.0,10
+Felipe Silva,49,Standard,2025-01-14,2025-01-18,Agencia,555.26,4.0,4
+Paulo Oliveira,51,Suite,2025-06-16,2025-06-28,Site Oficial,4819.09,,12
+Julia Chiavini,56,Standard,2025-05-20,2025-05-26,Direto no Balcao,1001.13,4.0,6
+Carlos Costa,43,Standard,2025-01-11,2025-01-24,Direto no Balcao,1911.6,5.0,13
+Julia Santos,51,Suite,2025-05-26,2025-06-07,Booking.com,5510.7,4.0,12
+Ana Chiavini,71,Suite,2025-04-16,2025-04-21,Booking.com,2174.75,4.0,5
+Joao Alves,20,Standard,2025-11-04,2025-11-18,Agencia,2167.94,4.0,14
+Felipe Santos,67,Suite,2025-12-07,2025-12-14,Site Oficial,3016.79,5.0,7
+Luyz Oliveira,29,Standard,2025-06-09,2025-06-23,Direto no Balcao,2282.41,4.0,14
+Joao Costa,82,Standard,2025-01-29,2025-02-08,Agencia,1416.59,,10
+Ana Costa,71,Standard,2025-07-27,2025-08-03,Direto no Balcao,1059.46,3.0,7
+Carlos Silva,22,Standard,2026-01-01,2026-01-14,Booking.com,2305.25,2.0,13
+Fernanda Alves,74,Deluxe,2025-11-03,2025-11-07,Direto no Balcao,927.21,4.0,4
+Maria Okawachi,34,Standard,2025-02-28,2025-03-12,Site Oficial,2043.09,4.0,12
+Paulo Alves,64,Standard,2025-12-18,2025-12-31,Site Oficial,1985.41,5.0,13
+Maria Costa,40,Deluxe,2025-04-19,2025-04-24,Booking.com,1133.9,3.0,5
+Luyz Santos,31,Deluxe,2025-05-26,2025-06-08,Site Oficial,3278.08,5.0,13
+Felipe Okawachi,83,Standard,2025-02-15,2025-02-18,Site Oficial,465.26,4.0,3
+Maria Costa,68,Deluxe,2025-10-01,2025-10-05,Agencia,1078.05,4.0,4
+Lucas Santos,55,Standard,2025-12-13,2025-12-27,Direto no Balcao,2263.93,5.0,14
+Fernanda Santos,81,Deluxe,2025-08-14,2025-08-18,Booking.com,1052.33,3.0,4
+Luyz Costa,55,Deluxe,2025-03-11,2025-03-14,Booking.com,761.42,4.0,3
+Fernanda Okawachi,67,Presidencial,2025-10-26,2025-11-08,Booking.com,15053.36,,13
+Joao Pereira,47,Standard,2025-10-29,2025-11-08,Booking.com,1789.62,5.0,10
+Julia Alves,68,Standard,2025-09-13,2025-09-18,Booking.com,823.1,4.0,5
+Paulo Okawachi,80,Standard,2025-04-05,2025-04-10,Site Oficial,713.71,4.0,5
+Paulo Costa,69,Standard,2025-10-04,2025-10-15,Agencia,1975.77,3.0,11
+Paulo Oliveira,55,Standard,2025-07-03,2025-07-10,Booking.com,1061.37,4.0,7
+Joao Oliveira,47,Suite,2025-05-25,2025-05-29,Agencia,1463.42,5.0,4
+Maria Oliveira,68,Standard,2025-02-20,2025-03-05,Agencia,2013.29,5.0,13
+Ana Santos,22,Standard,2025-02-04,2025-02-08,Site Oficial,557.31,3.0,4
+Paulo Okawachi,46,Deluxe,2025-10-07,2025-10-16,Booking.com,2417.04,3.0,9
+Carlos Costa,21,Standard,2025-11-07,2025-11-13,Site Oficial,1022.58,3.0,6
+Fernanda Alves,27,Deluxe,2025-02-02,2025-02-06,Booking.com,1136.0,3.0,4
+Julia Pereira,73,Standard,2025-07-26,2025-07-28,Site Oficial,307.66,2.0,2
+Julia Chiavini,34,Standard,2025-05-17,2025-05-23,Agencia,935.61,4.0,6
+Julia Chiavini,34,Standard,2025-10-24,2025-10-26,Booking.com,334.51,2.0,2
+Joao Oliveira,51,Standard,2025-12-06,2025-12-11,Direto no Balcao,848.19,3.0,5
+Maria Pereira,23,Suite,2025-03-28,2025-04-03,Agencia,2878.84,4.0,6
+Fernanda Costa,70,Standard,2025-05-15,2025-05-19,Direto no Balcao,716.52,3.0,4
+Joao Okawachi,83,Deluxe,2025-09-06,2025-09-20,Agencia,4130.48,2.0,14
+Julia Santos,60,Standard,2025-11-14,2025-11-27,Site Oficial,1769.7,3.0,13
+Carlos Chiavini,40,Standard,2025-08-05,2025-08-08,Booking.com,434.27,3.0,3
+Ana Okawachi,72,Suite,2025-03-18,2025-03-25,Agencia,2597.68,4.0,7
+Luyz Santos,33,Standard,2025-10-21,2025-10-23,Site Oficial,344.22,2.0,2
+Fernanda Oliveira,25,Deluxe,2025-01-30,2025-02-12,Booking.com,3536.78,5.0,13
+Ana Alves,21,Presidencial,2025-10-23,2025-11-03,Booking.com,10522.68,,11
+Ana Oliveira,21,Deluxe,2025-08-19,2025-09-02,Agencia,3646.5,5.0,14
+Luyz Costa,73,Suite,2025-07-27,2025-08-02,Booking.com,2788.62,4.0,6
+Ana Costa,42,Standard,2025-07-21,2025-08-03,Agencia,2238.19,5.0,13
+Luyz Pereira,84,Standard,2025-03-07,2025-03-11,Booking.com,696.79,5.0,4
+Fernanda Okawachi,84,Standard,2025-01-10,2025-01-16,Direto no Balcao,949.61,1.0,6
+Paulo Pereira,44,Deluxe,2025-06-23,2025-06-27,Site Oficial,971.07,4.0,4
+Lucas Silva,49,Presidencial,2025-05-14,2025-05-18,Direto no Balcao,4685.82,5.0,4
+Paulo Silva,67,Standard,2025-06-15,2025-06-19,Agencia,650.1,3.0,4
+Julia Santos,78,Deluxe,2025-12-16,2025-12-25,Direto no Balcao,2651.31,1.0,9
+Luyz Alves,68,Standard,2025-03-26,2025-04-02,Agencia,1245.49,5.0,7
+Luyz Oliveira,36,Deluxe,2025-01-04,2025-01-07,Booking.com,778.71,5.0,3
+Paulo Pereira,38,Standard,2025-05-05,2025-05-08,Booking.com,497.93,3.0,3
+Felipe Pereira,22,Presidencial,2025-11-27,2025-12-03,Agencia,5533.87,4.0,6
+Paulo Santos,59,Deluxe,2025-10-28,2025-11-03,Direto no Balcao,1443.21,3.0,6
+Paulo Silva,78,Standard,2025-08-17,2025-08-21,Booking.com,594.11,5.0,4
+Felipe Alves,39,Standard,2025-10-14,2025-10-23,Site Oficial,1547.43,3.0,9
+Fernanda Santos,38,Standard,2025-01-15,2025-01-19,Booking.com,567.12,3.0,4
+Julia Costa,18,Standard,2025-10-07,2025-10-16,Site Oficial,1230.93,5.0,9
+Julia Pereira,22,Standard,2025-01-12,2025-01-16,Direto no Balcao,660.84,4.0,4
+Paulo Oliveira,29,Suite,2025-11-22,2025-11-24,Site Oficial,744.86,5.0,2
+Lucas Alves,63,Deluxe,2025-03-16,2025-03-18,Site Oficial,503.94,4.0,2
+Ana Chiavini,51,Deluxe,2025-09-01,2025-09-06,Site Oficial,1380.62,3.0,5
+Felipe Oliveira,66,Standard,2025-06-09,2025-06-13,Site Oficial,631.09,4.0,4
+Maria Alves,62,Suite,2025-11-05,2025-11-12,Booking.com,3319.07,3.0,7
+Ana Okawachi,44,Deluxe,2025-09-04,2025-09-18,Site Oficial,3811.31,4.0,14
+Joao Pereira,43,Standard,2025-10-30,2025-11-10,Booking.com,1616.3,3.0,11
+Ana Pereira,64,Deluxe,2025-06-22,2025-06-27,Site Oficial,1260.65,5.0,5
+Maria Pereira,73,Deluxe,2025-06-18,2025-06-24,Agencia,1575.86,,6
+Ana Okawachi,80,Standard,2025-01-24,2025-02-03,Direto no Balcao,1382.42,,10
+Maria Oliveira,65,Standard,2025-04-05,2025-04-09,Site Oficial,691.39,4.0,4
+Luyz Pereira,78,Standard,2025-12-15,2025-12-28,Agencia,2095.73,3.0,13
+Carlos Chiavini,43,Standard,2025-11-10,2025-11-22,Site Oficial,1893.26,4.0,12
+Felipe Chiavini,53,Suite,2025-09-06,2025-09-08,Site Oficial,889.66,5.0,2
+Paulo Okawachi,18,Suite,2025-06-18,2025-07-01,Site Oficial,5218.17,3.0,13
+Maria Oliveira,25,Deluxe,2025-03-29,2025-04-08,Agencia,2792.95,,10
+Luyz Pereira,69,Standard,2025-01-13,2025-01-22,Direto no Balcao,1310.23,3.0,9
+Ana Oliveira,64,Standard,2025-07-12,2025-07-22,Agencia,1689.52,,10
+Joao Santos,73,Deluxe,2025-08-23,2025-08-30,Direto no Balcao,1849.53,5.0,7
+Lucas Alves,31,Deluxe,2025-07-17,2025-07-21,Site Oficial,1124.92,5.0,4
+Carlos Costa,45,Standard,2025-04-20,2025-04-23,Booking.com,445.8,3.0,3
+Ana Silva,19,Deluxe,2025-11-06,2025-11-16,Site Oficial,2326.67,1.0,10
+Joao Silva,43,Suite,2025-03-09,2025-03-23,Direto no Balcao,5325.29,4.0,14
+Paulo Alves,31,Standard,2025-06-29,2025-07-02,Agencia,457.13,3.0,3
+Carlos Costa,76,Standard,2025-12-21,2025-12-30,Site Oficial,1536.12,1.0,9
+Joao Chiavini,73,Deluxe,2025-07-15,2025-07-20,Agencia,1349.1,4.0,5
+Ana Alves,24,Standard,2025-01-12,2025-01-25,Agencia,2032.45,4.0,13
+Maria Santos,20,Standard,2025-12-25,2025-12-28,Agencia,447.54,4.0,3
+Maria Costa,40,Standard,2025-04-06,2025-04-11,Site Oficial,737.82,4.0,5
+Julia Chiavini,35,Standard,2025-10-22,2025-10-24,Agencia,305.94,2.0,2
+Paulo Chiavini,55,Deluxe,2025-11-21,2025-12-02,Agencia,2714.3,,11
+Felipe Silva,32,Deluxe,2025-11-25,2025-11-29,Site Oficial,1022.01,3.0,4
+Carlos Alves,81,Standard,2025-02-18,2025-02-28,Agencia,1441.88,4.0,10
+Carlos Silva,45,Suite,2025-10-25,2025-10-27,Site Oficial,904.02,4.0,2
+Felipe Santos,56,Suite,2025-05-31,2025-06-02,Direto no Balcao,833.52,5.0,2
+Julia Oliveira,74,Suite,2025-08-25,2025-09-06,Direto no Balcao,5293.8,2.0,12
+Maria Santos,34,Standard,2025-08-26,2025-09-03,Direto no Balcao,1345.45,4.0,8
+Luyz Costa,61,Standard,2025-12-07,2025-12-08,Agencia,153.22,4.0,1
+Maria Silva,42,Presidencial,2025-03-07,2025-03-21,Booking.com,16379.3,3.0,14
+Lucas Pereira,34,Deluxe,2025-08-01,2025-08-08,Booking.com,1799.29,4.0,7
+Paulo Costa,30,Standard,2025-03-08,2025-03-13,Agencia,693.13,,5
+Lucas Costa,42,Standard,2025-09-17,2025-09-28,Booking.com,1611.07,,11
+Ana Santos,27,Standard,2025-04-12,2025-04-20,Site Oficial,1175.7,1.0,8
+Julia Silva,84,Suite,2025-12-17,2025-12-18,Booking.com,374.43,3.0,1
+Ana Chiavini,35,Deluxe,2025-08-26,2025-09-06,Agencia,2793.08,3.0,11
+Ana Okawachi,51,Standard,2025-07-04,2025-07-11,Agencia,968.02,4.0,7
+Luyz Okawachi,25,Standard,2025-05-02,2025-05-07,Site Oficial,704.57,3.0,5
+Luyz Chiavini,57,Deluxe,2025-01-04,2025-01-08,Direto no Balcao,1035.96,3.0,4
+Felipe Oliveira,59,Suite,2025-09-15,2025-09-22,Agencia,2699.15,,7
+Paulo Pereira,58,Standard,2025-10-02,2025-10-12,Site Oficial,1653.87,,10
+Paulo Costa,23,Deluxe,2025-12-05,2025-12-07,Booking.com,583.75,1.0,2
+Joao Alves,69,Presidencial,2025-10-24,2025-11-05,Booking.com,12751.85,3.0,12
+Lucas Santos,43,Standard,2025-01-27,2025-01-28,Site Oficial,177.82,4.0,1
+Luyz Chiavini,81,Deluxe,2025-09-06,2025-09-07,Site Oficial,280.3,3.0,1
+Maria Pereira,76,Standard,2025-07-23,2025-08-03,Agencia,1633.15,4.0,11
+Joao Okawachi,73,Deluxe,2025-12-26,2026-01-07,Booking.com,3541.43,4.0,12
+Joao Chiavini,76,Deluxe,2025-03-31,2025-04-01,Site Oficial,254.1,5.0,1
+Ana Alves,50,Deluxe,2025-08-15,2025-08-27,Booking.com,3046.51,5.0,12
+Julia Oliveira,70,Deluxe,2025-08-08,2025-08-13,Site Oficial,1142.18,4.0,5
+Lucas Oliveira,39,Standard,2025-01-18,2025-01-28,Booking.com,1730.37,5.0,10
+Carlos Oliveira,38,Suite,2025-06-16,2025-06-23,Direto no Balcao,2862.73,3.0,7
+Ana Costa,21,Deluxe,2025-05-03,2025-05-05,Agencia,566.68,4.0,2
+Luyz Costa,79,Standard,2025-10-22,2025-11-01,Booking.com,1499.35,4.0,10
+Carlos Chiavini,79,Deluxe,2025-02-14,2025-02-22,Direto no Balcao,1876.99,2.0,8
+Ana Okawachi,41,Deluxe,2025-07-05,2025-07-09,Booking.com,955.47,3.0,4
+Felipe Santos,72,Standard,2025-05-02,2025-05-14,Booking.com,1627.18,3.0,12
+Julia Chiavini,26,Suite,2025-04-16,2025-04-19,Direto no Balcao,1362.8,,3
+Paulo Oliveira,20,Suite,2025-07-27,2025-08-06,Booking.com,3666.35,3.0,10
+Maria Alves,48,Standard,2025-02-05,2025-02-16,Booking.com,1713.61,3.0,11
+Joao Santos,57,Presidencial,2025-02-17,2025-02-25,Agencia,9116.25,4.0,8
+Maria Chiavini,53,Standard,2025-02-08,2025-02-10,Direto no Balcao,284.4,5.0,2
+Luyz Pereira,41,Standard,2025-11-21,2025-12-02,Direto no Balcao,1860.61,2.0,11
+Maria Alves,23,Standard,2025-11-11,2025-11-22,Site Oficial,1869.78,,11
+Maria Chiavini,83,Suite,2025-11-04,2025-11-17,Booking.com,5037.71,5.0,13
+Julia Pereira,21,Deluxe,2025-04-15,2025-04-18,Agencia,704.87,4.0,3
+Julia Oliveira,23,Standard,2025-05-23,2025-06-04,Booking.com,2052.13,5.0,12
+Carlos Oliveira,68,Standard,2025-07-18,2025-07-21,Booking.com,528.7,1.0,3
+Lucas Santos,79,Deluxe,2025-01-17,2025-01-27,Site Oficial,2515.0,3.0,10
+Julia Pereira,74,Standard,2025-03-14,2025-03-25,Booking.com,1666.25,5.0,11
+Maria Santos,83,Suite,2025-12-11,2025-12-12,Agencia,382.21,2.0,1
+Fernanda Pereira,25,Suite,2025-03-03,2025-03-09,Agencia,2784.8,3.0,6
+Lucas Oliveira,43,Deluxe,2025-08-12,2025-08-14,Site Oficial,502.78,4.0,2
+Joao Silva,68,Presidencial,2025-03-17,2025-03-18,Booking.com,965.26,3.0,1
+Ana Chiavini,62,Standard,2025-06-27,2025-06-29,Agencia,346.58,,2
+Maria Chiavini,61,Presidencial,2025-12-01,2025-12-13,Booking.com,12711.2,2.0,12
+Ana Silva,22,Deluxe,2025-12-09,2025-12-15,Booking.com,1777.77,5.0,6
+Fernanda Oliveira,43,Deluxe,2025-03-09,2025-03-23,Booking.com,3609.1,4.0,14
+Lucas Okawachi,36,Standard,2025-02-16,2025-02-20,Site Oficial,559.36,5.0,4
+Luyz Pereira,37,Suite,2025-12-21,2025-12-27,Booking.com,2359.33,3.0,6
+Lucas Okawachi,29,Standard,2025-12-13,2025-12-25,Agencia,2035.58,4.0,12
+Julia Santos,64,Standard,2025-06-11,2025-06-20,Booking.com,1473.18,5.0,9
+Fernanda Okawachi,18,Standard,2025-01-16,2025-01-29,Agencia,2127.7,4.0,13
+Carlos Chiavini,31,Deluxe,2025-04-08,2025-04-18,Booking.com,2769.64,4.0,10
+Julia Chiavini,81,Deluxe,2025-09-17,2025-09-29,Agencia,3019.3,4.0,12
+Paulo Oliveira,55,Deluxe,2025-11-10,2025-11-20,Agencia,2573.39,5.0,10
+Felipe Pereira,54,Suite,2025-12-02,2025-12-10,Booking.com,2982.47,4.0,8
+Joao Okawachi,28,Standard,2025-02-23,2025-02-24,Booking.com,149.75,,1
+Felipe Alves,2,Deluxe,2025-06-26,2025-07-09,Agencia,3710.69,3.0,13
+Paulo Okawachi,50,Standard,2025-12-03,2025-12-11,Direto no Balcao,1197.16,4.0,8
+Joao Costa,23,Suite,2025-11-14,2025-11-23,Site Oficial,4190.26,5.0,9
+Ana Santos,67,Suite,2025-09-21,2025-09-27,Direto no Balcao,2737.82,5.0,6
+Carlos Alves,27,Deluxe,2025-06-23,2025-07-03,Direto no Balcao,2678.31,5.0,10
+Carlos Alves,22,Deluxe,2025-03-14,2025-03-19,Booking.com,1486.18,,5
+Luyz Okawachi,40,Standard,2025-07-30,2025-08-05,Site Oficial,1007.62,4.0,6
+Ana Costa,27,Standard,2025-09-05,2025-09-18,Direto no Balcao,2150.4,2.0,13
+Luyz Chiavini,61,Suite,2025-11-02,2025-11-08,Booking.com,2694.43,1.0,6
+Paulo Okawachi,19,Standard,2025-10-03,2025-10-12,Direto no Balcao,1425.92,5.0,9
+Lucas Silva,30,Standard,2025-04-18,2025-04-22,Direto no Balcao,599.77,5.0,4
+Luyz Costa,57,Standard,2025-11-14,2025-11-16,Booking.com,314.85,3.0,2
+Luyz Chiavini,19,Suite,2025-01-04,2025-01-15,Booking.com,4807.7,3.0,11
+Ana Okawachi,82,Standard,2025-07-09,2025-07-20,Booking.com,1514.73,2.0,11
+Felipe Alves,80,Standard,2025-11-28,2025-12-07,Site Oficial,1450.11,5.0,9
+Julia Alves,34,Deluxe,2025-06-05,2025-06-07,Direto no Balcao,568.63,3.0,2
+Julia Alves,26,Suite,2025-06-30,2025-07-10,Booking.com,4022.87,4.0,10
+Felipe Silva,32,Standard,2025-01-22,2025-01-31,Agencia,1559.07,4.0,9
+Luyz Pereira,41,Standard,2025-06-12,2025-06-14,Direto no Balcao,274.82,5.0,2
+Paulo Okawachi,55,Standard,2025-11-07,2025-11-19,Agencia,1917.09,5.0,12
+Felipe Oliveira,52,Standard,2025-11-01,2025-11-09,Site Oficial,1185.65,4.0,8
+Ana Santos,66,Standard,2025-08-04,2025-08-13,Booking.com,1613.22,3.0,9
+Maria Costa,79,Deluxe,2025-02-13,2025-02-25,Agencia,2968.12,4.0,12
+Fernanda Okawachi,77,Deluxe,2025-04-05,2025-04-15,Site Oficial,2287.42,5.0,10
+Carlos Silva,67,Deluxe,2025-08-01,2025-08-10,Booking.com,2462.9,,9
+Ana Okawachi,26,Standard,2025-08-12,2025-08-22,Agencia,1656.62,3.0,10
+Felipe Chiavini,51,Suite,2025-12-11,2025-12-20,Agencia,3258.87,1.0,9
+Paulo Pereira,52,Standard,2025-05-20,2025-05-22,Site Oficial,354.72,2.0,2
+Felipe Alves,18,Presidencial,2025-03-09,2025-03-13,Booking.com,4405.0,4.0,4
+Felipe Santos,57,Deluxe,2025-11-17,2025-11-24,Booking.com,2037.4,5.0,7
+Fernanda Oliveira,81,Standard,2025-06-19,2025-07-01,Agencia,1837.58,1.0,12
+Lucas Silva,39,Deluxe,2025-11-08,2025-11-10,Agencia,513.24,4.0,2
+Fernanda Silva,77,Standard,2025-04-22,2025-04-23,Agencia,149.75,3.0,1
+Ana Okawachi,81,Deluxe,2025-07-29,2025-08-01,Booking.com,831.86,2.0,3
+Lucas Santos,28,Standard,2025-10-28,2025-11-09,Site Oficial,1930.45,4.0,12
+Joao Alves,31,Standard,2025-11-17,2025-11-21,Site Oficial,628.51,3.0,4
+Julia Silva,77,Suite,2025-12-20,2025-12-28,Booking.com,3009.37,4.0,8
+Paulo Chiavini,47,Standard,2025-08-05,2025-08-11,Direto no Balcao,1027.12,5.0,6
+Joao Chiavini,52,Suite,2025-02-04,2025-02-15,Site Oficial,5091.71,4.0,11
+Julia Okawachi,54,Standard,2025-04-19,2025-04-21,Agencia,300.54,2.0,2
+Luyz Alves,22,Deluxe,2025-12-09,2025-12-18,Direto no Balcao,2391.97,,9
+Paulo Chiavini,43,Deluxe,2025-07-30,2025-08-13,Direto no Balcao,3704.54,4.0,14
+Lucas Okawachi,79,Deluxe,2025-07-13,2025-07-15,Site Oficial,541.71,5.0,2
+Paulo Alves,21,Standard,2025-02-28,2025-03-13,Direto no Balcao,2024.94,2.0,13
+Paulo Silva,59,Standard,2025-01-16,2025-01-28,Direto no Balcao,2049.94,1.0,12
+Felipe Oliveira,35,Standard,2025-11-30,2025-12-05,Site Oficial,808.54,1.0,5
+Fernanda Santos,57,Standard,2025-09-05,2025-09-17,Site Oficial,2055.61,3.0,12
+Carlos Oliveira,56,Deluxe,2025-05-02,2025-05-06,Direto no Balcao,904.75,4.0,4
+Paulo Santos,31,Suite,2025-11-26,2025-12-09,Agencia,5427.38,,13
+Fernanda Costa,49,Suite,2025-11-27,2025-12-04,Booking.com,3256.53,4.0,7
+Felipe Santos,68,Deluxe,2025-09-22,2025-09-30,Direto no Balcao,1970.44,3.0,8
+Maria Oliveira,55,Deluxe,2025-10-18,2025-10-23,Direto no Balcao,1225.81,4.0,5
+Lucas Pereira,40,Deluxe,2025-09-29,2025-10-09,Agencia,2964.89,2.0,10
+Carlos Alves,80,Standard,2025-10-10,2025-10-24,Direto no Balcao,2211.98,4.0,14
+Julia Costa,32,Suite,2025-01-16,2025-01-30,Direto no Balcao,6075.55,4.0,14
+Joao Alves,42,Deluxe,2025-06-22,2025-06-27,Booking.com,1147.39,5.0,5
+Lucas Costa,34,Deluxe,2025-05-18,2025-05-20,Booking.com,460.2,,2
+Lucas Silva,83,Standard,2025-02-01,2025-02-09,Booking.com,1333.15,3.0,8
+Felipe Oliveira,70,Standard,2025-04-09,2025-04-23,Site Oficial,2488.09,4.0,14
+Lucas Pereira,68,Standard,2025-02-28,2025-03-02,Site Oficial,322.72,,2
+Felipe Chiavini,56,Suite,2025-11-08,2025-11-18,Booking.com,3849.12,5.0,10
+Fernanda Pereira,68,Deluxe,2025-08-17,2025-08-29,Booking.com,3045.25,4.0,12
+Luyz Okawachi,23,Standard,2025-05-23,2025-05-29,Site Oficial,931.78,,6
+Lucas Silva,84,Presidencial,2025-06-04,2025-06-12,Agencia,8336.72,2.0,8
+Joao Pereira,24,Standard,2025-04-11,2025-04-17,Direto no Balcao,971.85,,6
+Julia Silva,68,Standard,2025-04-06,2025-04-10,Direto no Balcao,649.73,2.0,4
+Fernanda Costa,59,Standard,2025-08-13,2025-08-26,Booking.com,1802.88,4.0,13
+Julia Oliveira,81,Deluxe,2025-01-15,2025-01-19,Agencia,1056.2,5.0,4
+Maria Okawachi,32,Suite,2025-01-31,2025-02-06,Site Oficial,2546.02,3.0,6
+Carlos Chiavini,46,Standard,2025-01-01,2025-01-15,Booking.com,2471.52,4.0,14
+Paulo Chiavini,50,Suite,2025-04-29,2025-05-12,Agencia,5076.85,3.0,13
+Paulo Alves,44,Standard,2025-10-04,2025-10-08,Agencia,663.4,,4
+Julia Chiavini,53,Suite,2025-02-05,2025-02-13,Agencia,3268.52,5.0,8
+Ana Oliveira,46,Deluxe,2025-01-30,2025-02-08,Site Oficial,2076.55,5.0,9
+Julia Pereira,55,Suite,2025-01-14,2025-01-15,Site Oficial,445.25,4.0,1
+Julia Oliveira,74,Standard,2025-09-03,2025-09-16,Direto no Balcao,2110.95,5.0,13
+Maria Okawachi,44,Presidencial,2025-02-16,2025-02-20,Direto no Balcao,3784.66,4.0,4
+Lucas Alves,72,Deluxe,2025-11-11,2025-11-15,Agencia,1113.37,4.0,4
+Luyz Chiavini,50,Standard,2025-10-03,2025-10-05,Agencia,281.89,5.0,2
+Lucas Costa,83,Suite,2025-03-05,2025-03-11,Site Oficial,2656.0,4.0,6
+Joao Santos,27,Standard,2025-08-18,2025-08-21,Direto no Balcao,469.28,2.0,3
+Paulo Okawachi,22,Suite,2025-02-02,2025-02-09,Agencia,3012.16,2.0,7
+Luyz Costa,55,Standard,2026-01-01,2026-01-14,Direto no Balcao,2063.77,2.0,13
+Paulo Oliveira,30,Deluxe,2025-12-15,2025-12-26,Direto no Balcao,2970.07,5.0,11
+Luyz Santos,48,Deluxe,2025-11-01,2025-11-12,Agencia,2704.41,4.0,11
+Julia Santos,64,Standard,2025-12-20,2025-12-25,Site Oficial,690.22,5.0,5
+Ana Alves,69,Standard,2025-09-27,2025-10-01,Agencia,700.34,4.0,4
+Fernanda Pereira,73,Standard,2025-09-10,2025-09-15,Agencia,684.31,3.0,5
+Fernanda Alves,32,Standard,2025-04-22,2025-04-30,Direto no Balcao,1128.28,3.0,8
+Ana Oliveira,46,Standard,2025-03-11,2025-03-14,Agencia,495.56,5.0,3
+Felipe Costa,25,Deluxe,2025-02-24,2025-03-10,Site Oficial,3359.08,4.0,14
+Lucas Pereira,22,Standard,2025-02-14,2025-02-21,Agencia,1212.41,,7
+Joao Okawachi,46,Standard,2025-04-08,2025-04-22,Site Oficial,2354.2,5.0,14
+Lucas Santos,64,Deluxe,2025-03-19,2025-03-25,Site Oficial,1639.46,4.0,6
+Ana Okawachi,62,Standard,2025-10-22,2025-11-03,Direto no Balcao,1779.45,4.0,12
+Felipe Costa,19,Suite,2025-02-28,2025-03-01,Booking.com,473.38,,1
+Ana Chiavini,44,Suite,2025-11-11,2025-11-24,Booking.com,5502.37,5.0,13
+Julia Oliveira,53,Deluxe,2025-11-27,2025-12-04,Direto no Balcao,2061.94,1.0,7
+Lucas Alves,53,Deluxe,2025-09-13,2025-09-27,Agencia,3333.15,4.0,14
+Ana Okawachi,43,Suite,2025-06-25,2025-07-08,Direto no Balcao,4871.33,5.0,13
+Joao Santos,60,Standard,2025-11-26,2025-12-03,Site Oficial,1136.69,5.0,7
+Paulo Oliveira,44,Standard,2025-03-25,2025-04-08,Booking.com,2218.55,3.0,14
+Luyz Silva,37,Standard,2025-06-05,2025-06-17,Direto no Balcao,1702.94,5.0,12
+Luyz Oliveira,28,Deluxe,2025-09-02,2025-09-03,Agencia,287.89,,1
+Maria Pereira,55,Standard,2025-02-13,2025-02-22,Direto no Balcao,1393.19,3.0,9
+Luyz Santos,23,Deluxe,2025-02-26,2025-03-04,Booking.com,1491.14,5.0,6
+Maria Oliveira,40,Presidencial,2025-12-18,2025-12-30,Direto no Balcao,11672.76,2.0,12
+Joao Chiavini,64,Suite,2025-04-03,2025-04-05,Direto no Balcao,726.18,2.0,2
+Fernanda Alves,63,Deluxe,2025-07-26,2025-07-31,Booking.com,1137.99,2.0,5
+Carlos Oliveira,29,Standard,2025-01-31,2025-02-13,Site Oficial,2146.82,2.0,13
+Ana Alves,30,Suite,2025-10-11,2025-10-22,Site Oficial,4433.88,5.0,11
+Julia Chiavini,79,Deluxe,2025-06-19,2025-06-23,Booking.com,977.49,2.0,4
+Carlos Costa,77,Standard,2025-10-25,2025-11-01,Direto no Balcao,1010.25,3.0,7
+Lucas Costa,60,Standard,2025-01-15,2025-01-23,Booking.com,1166.55,2.0,8
+Carlos Silva,22,Suite,2025-01-03,2025-01-14,Site Oficial,4154.2,3.0,11
+Carlos Silva,54,Deluxe,2025-06-14,2025-06-28,Agencia,3585.64,2.0,14
+Carlos Oliveira,48,Suite,2025-11-02,2025-11-13,Direto no Balcao,4609.12,5.0,11
+Paulo Silva,26,Suite,2025-06-02,2025-06-03,Site Oficial,464.91,2.0,1
+Carlos Alves,68,Deluxe,2025-03-06,2025-03-11,Direto no Balcao,1217.79,5.0,5
+Julia Okawachi,46,Deluxe,2025-02-05,2025-02-08,Booking.com,770.44,5.0,3
+Joao Chiavini,57,Standard,2025-11-06,2025-11-07,Agencia,152.61,1.0,1
+Fernanda Costa,58,Standard,2025-03-15,2025-03-27,Booking.com,1671.39,5.0,12
+Luyz Pereira,28,Standard,2025-08-09,2025-08-12,Agencia,410.84,1.0,3
+Lucas Pereira,40,Deluxe,2025-08-03,2025-08-17,Direto no Balcao,3166.14,3.0,14
+Julia Alves,18,Deluxe,2025-06-13,2025-06-19,Direto no Balcao,1670.48,1.0,6
+Joao Costa,63,Suite,2025-01-31,2025-02-14,Booking.com,5529.43,3.0,14
+Joao Pereira,38,Standard,2025-05-12,2025-05-19,Agencia,1101.46,4.0,7
+Lucas Santos,53,Deluxe,2025-02-19,2025-02-27,Agencia,1926.22,5.0,8
+Paulo Pereira,71,Deluxe,2025-02-12,2025-02-25,Direto no Balcao,3738.44,3.0,13
+Luyz Pereira,74,Deluxe,2025-01-04,2025-01-15,Booking.com,2551.55,5.0,11
+Lucas Okawachi,18,Deluxe,2025-04-26,2025-04-30,Agencia,1109.09,3.0,4
+Joao Pereira,80,Standard,2025-06-14,2025-06-17,Direto no Balcao,432.13,5.0,3
+Lucas Pereira,71,Deluxe,2025-05-19,2025-05-24,Site Oficial,1379.5,3.0,5
+Ana Santos,72,Standard,2025-04-29,2025-05-08,Booking.com,1574.06,2.0,9
+Carlos Alves,57,Standard,2025-10-21,2025-11-03,Site Oficial,2102.25,3.0,13
+Ana Silva,32,Standard,2025-11-15,2025-11-21,Booking.com,1008.2,3.0,6
+Julia Alves,38,Deluxe,2025-10-05,2025-10-14,Direto no Balcao,2465.99,4.0,9
+Joao Santos,64,Presidencial,2025-07-07,2025-07-13,Agencia,6751.7,5.0,6
+Lucas Chiavini,70,Deluxe,2025-07-23,2025-07-25,Agencia,492.71,2.0,2
+Carlos Pereira,26,Deluxe,2025-02-19,2025-03-04,Agencia,3413.8,5.0,13
+Felipe Alves,69,Deluxe,2025-04-20,2025-04-25,Booking.com,1455.15,5.0,5
+Luyz Oliveira,74,Deluxe,2025-06-04,2025-06-16,Direto no Balcao,3325.21,5.0,12
+Lucas Silva,43,Standard,2025-06-04,2025-06-15,Site Oficial,1827.24,3.0,11
+Fernanda Santos,58,Standard,2025-06-25,2025-07-04,Direto no Balcao,1326.8,4.0,9
+Julia Pereira,52,Standard,2025-05-20,2025-05-28,Site Oficial,1272.41,,8
+Julia Okawachi,80,Standard,2025-03-04,2025-03-11,Booking.com,1139.97,5.0,7
+Julia Okawachi,42,Standard,2025-10-02,2025-10-03,Booking.com,179.75,4.0,1
+Fernanda Santos,55,Standard,2025-05-30,2025-06-03,Site Oficial,650.46,2.0,4
+Carlos Santos,19,Standard,2025-11-29,2025-12-11,Site Oficial,1982.82,3.0,12
+Carlos Pereira,24,Presidencial,2025-06-04,2025-06-11,Site Oficial,7505.23,4.0,7
+Maria Chiavini,51,Standard,2025-06-20,2025-07-01,Direto no Balcao,1494.48,5.0,11
+Lucas Pereira,34,Standard,2025-08-04,2025-08-11,Site Oficial,1114.89,2.0,7
+Julia Oliveira,60,Standard,2025-12-23,2025-12-29,Booking.com,1071.81,4.0,6
+Julia Okawachi,76,Deluxe,2025-05-01,2025-05-09,Booking.com,2348.69,4.0,8
+Lucas Oliveira,68,Standard,2025-10-27,2025-11-07,Agencia,1777.59,4.0,11
+Paulo Silva,71,Standard,2025-02-18,2025-03-03,Site Oficial,2065.1,5.0,13
+Ana Alves,41,Deluxe,2025-03-25,2025-03-31,Direto no Balcao,1668.91,5.0,6
+Felipe Santos,42,Standard,2025-11-27,2025-12-07,Direto no Balcao,1706.84,3.0,10
+Fernanda Alves,69,Standard,2025-05-25,2025-05-28,Direto no Balcao,482.95,5.0,3
+Paulo Pereira,50,Standard,2025-02-15,2025-02-19,Agencia,715.27,3.0,4
+Fernanda Alves,66,Standard,2025-08-11,2025-08-25,Booking.com,2262.72,3.0,14
+Luyz Silva,46,Standard,2025-02-05,2025-02-08,Direto no Balcao,416.52,3.0,3
+Fernanda Chiavini,80,Standard,2025-09-08,2025-09-09,Booking.com,174.57,2.0,1
+Felipe Oliveira,39,Suite,2025-03-28,2025-04-07,Agencia,4537.58,3.0,10
+Joao Silva,43,Deluxe,2025-07-26,2025-07-31,Site Oficial,1215.41,2.0,5
+Fernanda Chiavini,45,Deluxe,2025-02-28,2025-03-01,Site Oficial,230.49,5.0,1
+Julia Chiavini,66,Standard,2025-06-20,2025-06-21,Site Oficial,156.28,2.0,1
+Lucas Oliveira,66,Suite,2025-04-21,2025-04-23,Direto no Balcao,797.49,5.0,2
+Joao Chiavini,37,Standard,2025-06-16,2025-06-29,Site Oficial,1979.33,1.0,13
+Ana Silva,80,Standard,2025-02-09,2025-02-13,Direto no Balcao,641.49,,4
+Lucas Oliveira,78,Deluxe,2025-09-26,2025-10-02,Agencia,1617.37,5.0,6
+Julia Pereira,66,Standard,2025-10-02,2025-10-10,Agencia,1108.01,1.0,8
+Julia Alves,18,Standard,2025-01-09,2025-01-22,Direto no Balcao,2239.05,5.0,13
+Fernanda Silva,30,Deluxe,2025-07-30,2025-08-02,Booking.com,866.54,4.0,3
+Felipe Santos,68,Suite,2025-07-15,2025-07-16,Site Oficial,391.94,5.0,1
+Ana Santos,73,Standard,2025-01-09,2025-01-12,Site Oficial,441.16,4.0,3
+Joao Oliveira,79,Deluxe,2025-02-16,2025-02-28,Site Oficial,2703.48,4.0,12
+Julia Oliveira,49,Presidencial,2025-11-03,2025-11-06,Direto no Balcao,3536.21,5.0,3
+Carlos Costa,47,Standard,2025-06-30,2025-07-05,Agencia,762.91,4.0,5
+Paulo Oliveira,46,Standard,2025-04-17,2025-04-28,Site Oficial,1661.8,1.0,11
+Luyz Oliveira,66,Standard,2025-04-30,2025-05-12,Agencia,1744.8,5.0,12
+Paulo Pereira,62,Standard,2025-01-03,2025-01-15,Site Oficial,2048.92,4.0,12
+Lucas Alves,47,Standard,2025-11-13,2025-11-17,Site Oficial,684.23,4.0,4
+Paulo Oliveira,33,Suite,2025-05-03,2025-05-16,Direto no Balcao,5187.89,1.0,13
+Felipe Oliveira,57,Deluxe,2025-03-05,2025-03-09,Booking.com,1135.7,4.0,4
+Paulo Okawachi,36,Deluxe,2025-10-26,2025-11-04,Direto no Balcao,2222.89,,9
+Lucas Pereira,35,Standard,2025-03-18,2025-03-25,Site Oficial,1099.54,3.0,7
+Luyz Alves,18,Suite,2025-06-11,2025-06-15,Site Oficial,1608.41,4.0,4
+Fernanda Alves,64,Presidencial,2025-07-31,2025-08-03,Booking.com,3223.35,5.0,3
+Fernanda Okawachi,83,Suite,2025-10-25,2025-10-31,Agencia,2481.36,5.0,6
+Lucas Alves,55,Standard,2025-12-01,2025-12-04,Agencia,405.37,4.0,3
+Julia Alves,68,Deluxe,2025-01-08,2025-01-14,Site Oficial,1761.66,3.0,6
+Maria Pereira,80,Standard,2025-06-08,2025-06-19,Agencia,1979.01,,11
+Paulo Silva,21,Standard,2025-06-15,2025-06-28,Site Oficial,2110.64,5.0,13
+Maria Alves,18,Standard,2025-10-21,2025-11-01,Booking.com,1954.85,2.0,11
+Fernanda Santos,25,Deluxe,2025-02-15,2025-02-28,Booking.com,2998.53,2.0,13
+Felipe Costa,46,Deluxe,2025-05-18,2025-05-31,Site Oficial,3117.67,4.0,13
+Julia Costa,72,Standard,2025-12-06,2025-12-18,Booking.com,1741.31,3.0,12
+Joao Oliveira,20,Standard,2025-01-19,2025-01-28,Direto no Balcao,1264.51,3.0,9
+Joao Oliveira,49,Standard,2025-07-14,2025-07-20,Direto no Balcao,1073.76,5.0,6
+Lucas Chiavini,27,Standard,2025-11-29,2025-12-11,Booking.com,2078.23,2.0,12
+Carlos Pereira,51,Standard,2025-02-28,2025-03-04,Site Oficial,552.08,5.0,4
+Lucas Okawachi,72,Standard,2025-11-04,2025-11-09,Site Oficial,707.32,3.0,5
+Joao Pereira,49,Deluxe,2025-03-04,2025-03-17,Booking.com,3514.59,5.0,13
+Paulo Okawachi,67,Standard,2025-11-15,2025-11-21,Agencia,859.16,5.0,6
+Julia Alves,24,Standard,2025-03-10,2025-03-21,Direto no Balcao,1843.03,1.0,11
+Paulo Silva,25,Standard,2025-10-08,2025-10-11,Agencia,440.68,4.0,3
+Lucas Oliveira,82,Suite,2025-08-04,2025-08-12,Site Oficial,2957.79,2.0,8
+Fernanda Chiavini,74,Deluxe,2025-07-22,2025-07-26,Site Oficial,930.39,5.0,4
+Julia Alves,84,Deluxe,2025-07-13,2025-07-21,Agencia,2223.49,5.0,8
+Joao Chiavini,76,Standard,2025-05-08,2025-05-18,Booking.com,1420.69,4.0,10
+Luyz Okawachi,71,Deluxe,2025-06-09,2025-06-19,Agencia,2576.14,4.0,10
+Lucas Santos,84,Standard,2025-11-09,2025-11-12,Agencia,467.78,3.0,3
+Lucas Silva,68,Deluxe,2025-01-02,2025-01-12,Direto no Balcao,2736.28,5.0,10
+Felipe Okawachi,25,Suite,2025-08-01,2025-08-08,Direto no Balcao,2542.47,4.0,7
+Paulo Alves,51,Deluxe,2025-06-13,2025-06-24,Agencia,2664.96,3.0,11
+Julia Okawachi,52,Suite,2025-01-23,2025-02-05,Agencia,4954.86,4.0,13
+Julia Costa,49,Deluxe,2025-11-16,2025-11-28,Site Oficial,3501.43,2.0,12
+Julia Santos,63,Standard,2025-01-29,2025-02-07,Direto no Balcao,1535.6,5.0,9
+Maria Chiavini,33,Suite,2025-10-03,2025-10-07,Direto no Balcao,1566.82,1.0,4
+Julia Alves,54,Standard,2025-01-01,2025-01-09,Site Oficial,1358.51,4.0,8
+Felipe Oliveira,71,Deluxe,2025-11-03,2025-11-06,Booking.com,856.72,3.0,3
+Maria Santos,31,Standard,2025-04-29,2025-05-06,Direto no Balcao,1064.42,3.0,7
+Joao Okawachi,72,Standard,2025-09-26,2025-09-29,Direto no Balcao,415.1,4.0,3
+Luyz Alves,65,Standard,2025-05-06,2025-05-18,Booking.com,2139.79,,12
+Felipe Santos,24,Standard,2025-04-12,2025-04-19,Direto no Balcao,965.06,5.0,7
+Paulo Costa,24,Standard,2025-02-17,2025-03-03,Direto no Balcao,1897.32,3.0,14
+Maria Costa,50,Deluxe,2025-02-03,2025-02-14,Booking.com,3151.99,3.0,11
+Fernanda Okawachi,40,Standard,2025-12-12,2025-12-22,Booking.com,1635.31,5.0,10
+Paulo Chiavini,36,Standard,2025-10-14,2025-10-24,Agencia,1582.21,4.0,10
+Paulo Pereira,36,Deluxe,2025-02-24,2025-03-07,Site Oficial,3053.74,2.0,11
+Luyz Silva,53,Standard,2025-01-10,2025-01-21,Site Oficial,1673.99,5.0,11
+Ana Costa,46,Deluxe,2025-09-23,2025-09-29,Booking.com,1766.44,5.0,6
+Carlos Silva,77,Deluxe,2025-03-15,2025-03-17,Booking.com,548.08,,2
+Felipe Silva,19,Suite,2025-12-04,2025-12-15,Direto no Balcao,4758.97,,11
+Paulo Costa,18,Deluxe,2025-06-25,2025-06-28,Agencia,711.42,5.0,3
+Felipe Pereira,64,Standard,2025-03-29,2025-04-04,Agencia,839.39,2.0,6
+Luyz Santos,37,Deluxe,2025-06-19,2025-07-03,Booking.com,3730.48,2.0,14
+Ana Alves,28,Standard,2025-10-27,2025-10-31,Direto no Balcao,631.98,4.0,4
+Julia Costa,19,Standard,2025-09-17,2025-09-23,Direto no Balcao,970.33,4.0,6
+Lucas Silva,84,Deluxe,2025-10-04,2025-10-05,Site Oficial,264.82,4.0,1
+Carlos Oliveira,29,Standard,2025-12-12,2025-12-22,Site Oficial,1528.02,4.0,10
+Luyz Okawachi,37,Deluxe,2025-11-27,2025-12-09,Direto no Balcao,3124.84,4.0,12
+Ana Pereira,22,Suite,2025-02-16,2025-02-17,Site Oficial,475.08,4.0,1
+Joao Okawachi,54,Suite,2025-08-04,2025-08-07,Booking.com,1244.38,1.0,3
+Luyz Silva,55,Suite,2025-01-23,2025-01-31,Direto no Balcao,3465.72,3.0,8
+Fernanda Pereira,26,Standard,2025-04-14,2025-04-22,Site Oficial,1115.55,4.0,8
+Lucas Alves,70,Standard,2025-04-12,2025-04-23,Agencia,1735.79,5.0,11
+Maria Santos,61,Deluxe,2025-11-23,2025-11-27,Direto no Balcao,1003.57,3.0,4
+Julia Okawachi,41,Standard,2025-11-20,2025-11-26,Direto no Balcao,810.46,4.0,6
+Ana Costa,47,Deluxe,2025-06-03,2025-06-11,Agencia,2362.06,5.0,8
+Felipe Oliveira,76,Deluxe,2025-04-17,2025-04-24,Booking.com,1792.0,4.0,7
+Joao Oliveira,31,Deluxe,2025-01-29,2025-02-09,Agencia,2989.06,1.0,11
+Julia Silva,26,Standard,2025-08-29,2025-09-05,Direto no Balcao,1130.12,4.0,7
+Carlos Santos,57,Standard,2025-12-01,2025-12-14,Booking.com,2210.24,3.0,13
+Joao Okawachi,83,Standard,2025-10-11,2025-10-15,Site Oficial,613.99,,4
+Carlos Chiavini,42,Standard,2025-05-24,2025-06-02,Site Oficial,1557.14,2.0,9
+Joao Oliveira,39,Suite,2025-02-06,2025-02-18,Site Oficial,4623.42,5.0,12
+Julia Pereira,21,Standard,2025-04-15,2025-04-25,Direto no Balcao,1361.32,2.0,10
+Ana Silva,43,Standard,2025-09-06,2025-09-12,Agencia,917.53,4.0,6
+Julia Chiavini,75,Standard,2025-08-01,2025-08-15,Booking.com,2115.82,4.0,14
+Ana Silva,46,Deluxe,2025-02-10,2025-02-22,Site Oficial,2869.83,3.0,12
+Maria Chiavini,54,Deluxe,2025-08-26,2025-09-06,Booking.com,3048.53,4.0,11
+Lucas Okawachi,35,Standard,2025-11-05,2025-11-08,Direto no Balcao,444.58,3.0,3
+Lucas Alves,59,Standard,2025-11-10,2025-11-15,Site Oficial,826.27,3.0,5
+Joao Okawachi,58,Standard,2025-02-23,2025-02-28,Direto no Balcao,844.07,4.0,5
+Fernanda Chiavini,55,Standard,2025-01-03,2025-01-17,Agencia,2213.53,3.0,14
+Fernanda Oliveira,51,Deluxe,2025-11-14,2025-11-19,Direto no Balcao,1234.12,5.0,5
+Julia Chiavini,34,Deluxe,2025-12-05,2025-12-13,Direto no Balcao,2125.4,4.0,8
+Lucas Chiavini,54,Standard,2025-10-03,2025-10-12,Agencia,1554.73,4.0,9
+Fernanda Costa,42,Standard,2025-05-28,2025-06-10,Booking.com,1992.1,1.0,13
+Paulo Pereira,44,Presidencial,2025-04-28,2025-05-07,Agencia,9666.05,4.0,9
+Paulo Alves,74,Standard,2025-09-09,2025-09-22,Agencia,1841.72,5.0,13
+Fernanda Chiavini,48,Deluxe,2025-01-28,2025-02-03,Direto no Balcao,1603.45,3.0,6
+Luyz Silva,23,Standard,2025-11-14,2025-11-20,Booking.com,1067.84,5.0,6
+Maria Santos,57,Standard,2025-11-23,2025-12-02,Site Oficial,1372.25,3.0,9
+Luyz Pereira,29,Standard,2025-07-07,2025-07-11,Agencia,558.28,5.0,4
+Joao Okawachi,70,Deluxe,2025-06-27,2025-07-03,Booking.com,1385.31,2.0,6
+Fernanda Chiavini,27,Presidencial,2025-02-07,2025-02-11,Agencia,4733.29,5.0,4
+Luyz Silva,62,Standard,2025-10-23,2025-11-03,Agencia,1734.63,4.0,11
+Joao Pereira,34,Standard,2025-10-06,2025-10-07,Agencia,160.73,3.0,1
+Joao Costa,43,Standard,2025-04-13,2025-04-20,Agencia,1003.0,3.0,7
+Fernanda Oliveira,79,Standard,2025-06-11,2025-06-25,Direto no Balcao,2254.01,4.0,14
+Fernanda Oliveira,63,Standard,2025-11-01,2025-11-11,Booking.com,1748.04,,10
+Felipe Chiavini,81,Standard,2025-10-08,2025-10-19,Booking.com,1555.78,3.0,11
+Paulo Santos,19,Deluxe,2025-01-31,2025-02-12,Booking.com,3459.93,2.0,12
+Fernanda Pereira,71,Standard,2025-03-21,2025-03-27,Agencia,984.69,4.0,6
+Felipe Okawachi,82,Standard,2025-01-06,2025-01-15,Direto no Balcao,1608.32,4.0,9
+Ana Santos,68,Suite,2025-07-01,2025-07-08,Agencia,2779.78,4.0,7
+Julia Santos,70,Standard,2025-08-30,2025-09-12,Agencia,2174.65,5.0,13
+Fernanda Oliveira,53,Presidencial,2025-07-31,2025-08-07,Booking.com,6447.52,3.0,7
+Maria Santos,43,Standard,2025-01-20,2025-01-22,Agencia,346.17,,2
+Lucas Silva,46,Suite,2025-12-22,2026-01-03,Site Oficial,4549.58,4.0,12
+Paulo Santos,38,Deluxe,2026-01-01,2026-01-12,Agencia,3195.36,2.0,11
+Felipe Silva,28,Suite,2025-04-11,2025-04-20,Site Oficial,4105.64,5.0,9
+Maria Silva,57,Presidencial,2025-08-02,2025-08-12,Agencia,9753.98,4.0,10
+Fernanda Chiavini,28,Standard,2025-08-12,2025-08-21,Direto no Balcao,1333.64,3.0,9
+Carlos Chiavini,53,Presidencial,2025-05-13,2025-05-19,Direto no Balcao,5639.13,4.0,6
+Paulo Chiavini,76,Standard,2025-06-16,2025-06-29,Booking.com,2029.34,3.0,13
+Fernanda Oliveira,56,Standard,2025-09-25,2025-09-28,Agencia,431.7,4.0,3
+Julia Alves,71,Standard,2025-05-24,2025-05-25,Site Oficial,160.35,5.0,1
+Lucas Oliveira,72,Deluxe,2025-04-27,2025-05-01,Site Oficial,1151.32,2.0,4
+Carlos Silva,41,Standard,2025-02-07,2025-02-21,Agencia,2509.02,4.0,14
+Felipe Chiavini,39,Deluxe,2025-03-13,2025-03-27,Site Oficial,3840.16,5.0,14
+Joao Alves,73,Deluxe,2025-10-10,2025-10-13,Direto no Balcao,684.18,,3
+Joao Oliveira,50,Deluxe,2025-08-22,2025-09-05,Site Oficial,3577.63,4.0,14
+Carlos Okawachi,53,Suite,2025-02-12,2025-02-24,Booking.com,4416.09,4.0,12
+Lucas Okawachi,37,Standard,2025-01-25,2025-01-26,Direto no Balcao,156.9,4.0,1
+Julia Okawachi,79,Standard,2025-03-09,2025-03-12,Direto no Balcao,531.74,,3
+Julia Santos,43,Standard,2025-12-12,2025-12-26,Direto no Balcao,2007.34,5.0,14
+Felipe Oliveira,83,Standard,2025-04-11,2025-04-25,Agencia,2274.06,3.0,14
+Lucas Pereira,57,Standard,2025-11-07,2025-11-11,Agencia,603.04,4.0,4
+Carlos Chiavini,34,Standard,2025-11-10,2025-11-23,Direto no Balcao,1793.58,4.0,13
+Ana Costa,18,Standard,2025-08-06,2025-08-19,Agencia,1795.61,5.0,13
+Felipe Oliveira,78,Presidencial,2025-10-14,2025-10-28,Site Oficial,16141.33,4.0,14
+Lucas Chiavini,60,Deluxe,2025-12-19,2025-12-27,Agencia,1991.12,5.0,8
+Felipe Silva,59,Standard,2025-11-08,2025-11-17,Agencia,1399.95,,9
+Paulo Pereira,42,Deluxe,2025-09-29,2025-10-02,Direto no Balcao,678.35,2.0,3
+Fernanda Alves,56,Standard,2025-07-20,2025-07-26,Booking.com,840.27,3.0,6
+Paulo Costa,52,Standard,2025-05-01,2025-05-11,Booking.com,1435.98,4.0,10
+Felipe Chiavini,20,Deluxe,2025-03-26,2025-04-06,Booking.com,2623.12,3.0,11
+Joao Silva,61,Standard,2025-05-14,2025-05-19,Site Oficial,872.7,1.0,5
+Fernanda Okawachi,68,Standard,2025-10-27,2025-11-02,Agencia,1067.37,2.0,6
+Felipe Alves,29,Presidencial,2025-05-05,2025-05-09,Booking.com,3937.7,5.0,4
+Carlos Santos,36,Suite,2025-01-23,2025-02-02,Direto no Balcao,4688.05,5.0,10
+Carlos Okawachi,61,Deluxe,2025-09-14,2025-09-20,Booking.com,1569.29,4.0,6
+Ana Alves,76,Deluxe,2025-02-03,2025-02-10,Booking.com,1688.04,4.0,7
+Paulo Pereira,66,Deluxe,2025-05-09,2025-05-18,Agencia,2215.38,3.0,9
+Joao Santos,78,Standard,2025-05-17,2025-05-27,Agencia,1389.14,5.0,10
+Ana Oliveira,34,Standard,2025-09-18,2025-09-25,Agencia,1251.53,5.0,7
+Joao Oliveira,74,Standard,2025-06-15,2025-06-21,Site Oficial,909.72,4.0,6
+Carlos Costa,72,Standard,2025-08-05,2025-08-06,Site Oficial,172.14,3.0,1
+Lucas Okawachi,64,Deluxe,2025-12-17,2025-12-19,Booking.com,517.54,2.0,2
+Fernanda Alves,29,Standard,2025-03-05,2025-03-06,Agencia,173.38,2.0,1
+Felipe Oliveira,79,Presidencial,2025-08-10,2025-08-19,Booking.com,9012.11,4.0,9
+Fernanda Chiavini,25,Suite,2025-05-18,2025-05-28,Direto no Balcao,4239.82,5.0,10
+Ana Oliveira,38,Deluxe,2025-01-03,2025-01-13,Direto no Balcao,2638.96,5.0,10
+Ana Chiavini,42,Deluxe,2025-05-15,2025-05-24,Agencia,2204.97,4.0,9
+Julia Costa,29,Suite,2025-08-28,2025-09-04,Agencia,2900.9,5.0,7
+Fernanda Costa,32,Standard,2025-07-04,2025-07-17,Direto no Balcao,2254.17,,13
+Luyz Alves,76,Deluxe,2025-09-21,2025-09-23,Agencia,485.92,3.0,2
+Luyz Costa,43,Standard,2025-12-01,2025-12-07,Site Oficial,993.77,4.0,6
+Luyz Alves,43,Deluxe,2025-03-12,2025-03-23,Site Oficial,3230.64,,11
+Ana Okawachi,64,Standard,2025-12-30,2026-01-03,Agencia,604.78,3.0,4
+Luyz Okawachi,49,Suite,2025-05-15,2025-05-16,Direto no Balcao,383.96,,1
+Fernanda Costa,27,Suite,2025-02-04,2025-02-05,Booking.com,380.71,,1
+Maria Okawachi,33,Standard,2025-12-22,2026-01-03,Agencia,2078.57,5.0,12
+Luyz Oliveira,34,Standard,2025-11-28,2025-12-03,Agencia,872.17,5.0,5
+Ana Santos,40,Presidencial,2025-04-03,2025-04-15,Booking.com,12891.37,5.0,12
+Ana Chiavini,43,Standard,2025-12-13,2025-12-15,Agencia,350.59,5.0,2
+Maria Alves,24,Suite,2025-01-10,2025-01-14,Booking.com,1895.08,3.0,4
+Paulo Oliveira,2,Deluxe,2025-11-04,2025-11-05,Direto no Balcao,299.49,2.0,1
+Julia Alves,24,Standard,2025-07-26,2025-07-30,Site Oficial,717.83,3.0,4
+Felipe Costa,26,Standard,2025-02-22,2025-03-05,Direto no Balcao,1747.37,5.0,11
+Felipe Chiavini,65,Standard,2025-09-04,2025-09-10,Site Oficial,942.57,2.0,6
+Felipe Pereira,76,Deluxe,2025-03-01,2025-03-11,Booking.com,2807.45,1.0,10
+Fernanda Alves,56,Standard,2025-03-20,2025-03-24,Site Oficial,682.56,2.0,4
+Ana Alves,35,Deluxe,2025-01-10,2025-01-11,Direto no Balcao,274.17,5.0,1
+Lucas Santos,76,Standard,2025-12-22,2025-12-29,Site Oficial,1023.45,,7
+Felipe Costa,34,Deluxe,2025-08-17,2025-08-31,Booking.com,3314.96,,14
+Carlos Pereira,31,Suite,2025-02-11,2025-02-13,Site Oficial,787.77,4.0,2
+Joao Alves,48,Presidencial,2025-09-04,2025-09-13,Agencia,9610.18,5.0,9
+Carlos Oliveira,41,Standard,2025-07-18,2025-07-31,Direto no Balcao,1979.21,5.0,13
+Ana Pereira,77,Suite,2025-01-08,2025-01-11,Agencia,1393.12,4.0,3
+Ana Chiavini,62,Deluxe,2025-09-12,2025-09-20,Booking.com,2018.55,4.0,8
+Fernanda Alves,20,Deluxe,2025-01-24,2025-02-06,Site Oficial,3312.16,2.0,13
+Ana Oliveira,54,Presidencial,2025-05-02,2025-05-10,Agencia,8044.82,,8
+Felipe Santos,60,Standard,2025-11-16,2025-11-19,Agencia,420.88,4.0,3
+Joao Okawachi,57,Standard,2025-04-03,2025-04-07,Site Oficial,625.08,4.0,4
+Julia Silva,72,Suite,2025-02-06,2025-02-08,Site Oficial,853.31,5.0,2
+Paulo Costa,56,Standard,2025-10-25,2025-10-29,Direto no Balcao,597.45,3.0,4
+Fernanda Oliveira,32,Suite,2025-09-27,2025-10-08,Agencia,4974.94,3.0,11
+Joao Santos,21,Suite,2025-02-13,2025-02-24,Agencia,4775.04,4.0,11
+Maria Alves,42,Standard,2025-10-16,2025-10-27,Booking.com,1495.08,1.0,11
+Carlos Costa,30,Suite,2025-10-23,2025-11-06,Direto no Balcao,5905.31,5.0,14
+Maria Alves,50,Standard,2025-07-18,2025-07-27,Booking.com,1530.51,4.0,9
+Luyz Pereira,33,Deluxe,2025-07-16,2025-07-18,Agencia,472.71,4.0,2
+Maria Silva,59,Deluxe,2025-09-26,2025-10-08,Booking.com,3514.2,4.0,12
+Lucas Alves,83,Suite,2025-09-20,2025-10-02,Agencia,5340.01,4.0,12
+Julia Chiavini,72,Standard,2025-06-03,2025-06-16,Agencia,1989.34,4.0,13
+Luyz Costa,59,Standard,2025-04-15,2025-04-18,Booking.com,519.88,5.0,3
+Ana Santos,51,Deluxe,2025-08-18,2025-08-29,Booking.com,2494.26,5.0,11
+Ana Costa,47,Deluxe,2025-06-11,2025-06-22,Site Oficial,2723.01,5.0,11
+Ana Santos,30,Deluxe,2025-10-06,2025-10-10,Site Oficial,1198.77,5.0,4
+Carlos Santos,30,Standard,2025-09-04,2025-09-09,Site Oficial,891.79,3.0,5
+Ana Pereira,35,Standard,2025-02-11,2025-02-12,Agencia,165.48,4.0,1
+Julia Costa,49,Standard,2025-09-26,2025-10-03,Booking.com,1049.31,,7
+Joao Alves,56,Suite,2025-11-27,2025-12-11,Direto no Balcao,5647.81,4.0,14
+Joao Silva,63,Standard,2025-11-27,2025-12-07,Agencia,1402.27,2.0,10
+Lucas Chiavini,46,Standard,2025-02-12,2025-02-19,Direto no Balcao,1143.69,4.0,7
+Ana Okawachi,79,Presidencial,2025-06-11,2025-06-20,Booking.com,8248.5,2.0,9
+Carlos Santos,79,Standard,2025-04-08,2025-04-12,Agencia,676.02,3.0,4
+Lucas Costa,74,Presidencial,2025-09-21,2025-10-05,Direto no Balcao,15872.49,,14
+Lucas Costa,33,Deluxe,2025-06-24,2025-07-08,Direto no Balcao,3178.52,4.0,14
+Paulo Santos,73,Suite,2025-09-19,2025-09-25,Site Oficial,2262.69,3.0,6
+Luyz Alves,27,Standard,2025-05-29,2025-06-09,Site Oficial,1672.61,,11
+Luyz Oliveira,47,Standard,2025-06-04,2025-06-06,Site Oficial,288.08,,2
+Fernanda Silva,42,Deluxe,2025-09-26,2025-10-08,Agencia,2904.61,4.0,12
+Lucas Alves,22,Suite,2025-12-01,2025-12-13,Booking.com,5720.49,3.0,12
+Fernanda Pereira,82,Deluxe,2025-12-12,2025-12-26,Booking.com,3880.56,5.0,14
+Paulo Pereira,66,Standard,2025-06-22,2025-06-26,Site Oficial,587.46,5.0,4
+Carlos Alves,20,Deluxe,2025-08-03,2025-08-05,Site Oficial,531.81,5.0,2
+Felipe Pereira,62,Deluxe,2025-09-27,2025-10-07,Site Oficial,2848.04,5.0,10
+Carlos Chiavini,31,Deluxe,2025-11-30,2025-12-05,Direto no Balcao,1427.36,5.0,5
+Julia Okawachi,47,Deluxe,2025-10-13,2025-10-20,Site Oficial,1913.47,3.0,7
+Felipe Silva,79,Deluxe,2025-12-18,2025-12-19,Booking.com,284.85,3.0,1
+Julia Santos,54,Standard,2025-04-09,2025-04-19,Agencia,1507.32,5.0,10
+Maria Chiavini,42,Standard,2025-01-05,2025-01-15,Agencia,1534.33,4.0,10
+Carlos Chiavini,65,Standard,2025-08-20,2025-08-27,Agencia,991.62,2.0,7
+Ana Silva,82,Standard,2025-08-13,2025-08-23,Agencia,1696.07,4.0,10
+Felipe Oliveira,70,Standard,2025-08-16,2025-08-29,Direto no Balcao,1786.33,3.0,13
+Joao Silva,32,Standard,2025-02-09,2025-02-15,Direto no Balcao,845.52,3.0,6
+Fernanda Santos,66,Standard,2025-07-15,2025-07-21,Site Oficial,870.91,4.0,6
+Lucas Okawachi,29,Standard,2025-10-26,2025-11-07,Direto no Balcao,1776.39,3.0,12
+Julia Oliveira,76,Suite,2025-07-11,2025-07-19,Site Oficial,3734.07,5.0,8
+Lucas Oliveira,54,Suite,2025-01-18,2025-01-26,Site Oficial,2927.52,2.0,8
+Julia Costa,78,Standard,2025-05-19,2025-05-25,Agencia,887.12,5.0,6
+Fernanda Costa,60,Presidencial,2025-03-16,2025-03-19,Direto no Balcao,3454.93,5.0,3
+Fernanda Oliveira,56,Deluxe,2025-11-15,2025-11-20,Direto no Balcao,1195.35,5.0,5
+Ana Costa,73,Standard,2025-10-24,2025-10-26,Site Oficial,313.23,4.0,2
+Joao Alves,80,Standard,2025-12-30,2026-01-13,Site Oficial,1946.92,,14
+Maria Pereira,63,Deluxe,2025-05-10,2025-05-15,Booking.com,1127.31,3.0,5
+Joao Alves,28,Deluxe,2025-05-14,2025-05-28,Booking.com,3302.48,1.0,14
+Joao Chiavini,79,Deluxe,2025-08-19,2025-08-28,Site Oficial,2230.78,4.0,9
+Maria Pereira,42,Standard,2025-06-22,2025-07-02,Booking.com,1642.27,1.0,10
+Joao Silva,69,Standard,2025-02-10,2025-02-11,Booking.com,164.27,,1
+Carlos Oliveira,21,Standard,2025-09-07,2025-09-17,Site Oficial,1720.86,3.0,10
+Paulo Costa,76,Standard,2025-03-03,2025-03-08,Site Oficial,702.63,5.0,5
+Fernanda Chiavini,37,Standard,2025-01-12,2025-01-24,Direto no Balcao,1641.83,5.0,12
+Carlos Silva,80,Standard,2025-01-30,2025-02-05,Site Oficial,928.86,3.0,6
+Carlos Alves,71,Suite,2025-07-16,2025-07-30,Site Oficial,5988.32,4.0,14
+Felipe Silva,74,Suite,2025-12-14,2025-12-25,Agencia,4283.99,1.0,11
+Lucas Chiavini,58,Standard,2025-01-04,2025-01-11,Direto no Balcao,998.58,4.0,7
+Carlos Chiavini,20,Suite,2025-05-30,2025-06-08,Direto no Balcao,3888.57,1.0,9
+Ana Costa,22,Standard,2025-02-07,2025-02-12,Agencia,839.38,,5
+Joao Silva,22,Standard,2025-08-21,2025-09-02,Site Oficial,1799.62,3.0,12
+Carlos Pereira,71,Deluxe,2025-08-11,2025-08-18,Direto no Balcao,1603.48,3.0,7
+Paulo Silva,64,Presidencial,2025-01-20,2025-02-02,Direto no Balcao,12408.01,5.0,13
+Ana Alves,66,Deluxe,2025-01-16,2025-01-17,Booking.com,267.86,3.0,1
+Felipe Pereira,26,Standard,2025-01-13,2025-01-24,Direto no Balcao,1704.71,5.0,11
+Felipe Oliveira,37,Deluxe,2025-06-18,2025-07-02,Site Oficial,3729.53,4.0,14
+Joao Oliveira,78,Standard,2025-09-19,2025-09-24,Site Oficial,729.08,4.0,5
+Luyz Alves,52,Suite,2025-09-09,2025-09-11,Booking.com,791.17,5.0,2
+Fernanda Pereira,67,Deluxe,2025-06-01,2025-06-05,Direto no Balcao,1140.2,4.0,4
+Lucas Pereira,79,Standard,2025-10-11,2025-10-18,Direto no Balcao,1110.19,,7
+Carlos Pereira,34,Deluxe,2025-01-05,2025-01-10,Direto no Balcao,1305.79,,5
+Ana Chiavini,20,Deluxe,2025-05-15,2025-05-27,Agencia,2954.92,3.0,12
+Lucas Pereira,49,Standard,2025-02-03,2025-02-09,Direto no Balcao,975.57,1.0,6
+Felipe Okawachi,30,Deluxe,2025-08-23,2025-08-25,Site Oficial,476.49,,2
+Joao Okawachi,31,Standard,2025-09-20,2025-09-23,Site Oficial,406.28,,3
+Maria Santos,28,Deluxe,2025-02-26,2025-03-05,Agencia,1667.32,2.0,7
+Carlos Silva,73,Suite,2025-05-08,2025-05-19,Agencia,4320.05,5.0,11
+Felipe Okawachi,84,Suite,2025-03-12,2025-03-14,Direto no Balcao,938.34,4.0,2
+Joao Costa,46,Deluxe,2025-10-08,2025-10-20,Booking.com,3466.25,3.0,12
+Ana Silva,26,Deluxe,2025-10-04,2025-10-10,Agencia,1720.7,5.0,6
+Ana Okawachi,84,Standard,2025-08-14,2025-08-19,Agencia,764.27,3.0,5
+Carlos Oliveira,42,Deluxe,2025-10-08,2025-10-18,Direto no Balcao,2600.87,,10
+Maria Pereira,59,Standard,2025-08-30,2025-08-31,Direto no Balcao,135.63,3.0,1
+Joao Pereira,26,Standard,2025-10-08,2025-10-20,Agencia,2018.88,4.0,12
+Lucas Oliveira,57,Standard,2025-11-08,2025-11-19,Booking.com,1650.58,3.0,11
+Fernanda Costa,42,Standard,2025-06-23,2025-07-03,Agencia,1697.73,4.0,10
+Joao Okawachi,22,Deluxe,2025-05-22,2025-06-02,Direto no Balcao,3114.39,5.0,11
+Julia Alves,28,Standard,2025-04-26,2025-04-30,Direto no Balcao,717.12,3.0,4
+Carlos Santos,76,Deluxe,2025-10-11,2025-10-22,Agencia,3188.62,4.0,11
+Ana Santos,55,Standard,2025-09-13,2025-09-15,Booking.com,275.36,4.0,2
+Lucas Costa,22,Standard,2025-04-30,2025-05-04,Agencia,681.38,2.0,4
+Joao Silva,65,Deluxe,2025-03-09,2025-03-10,Agencia,278.66,5.0,1
+Carlos Costa,35,Standard,2025-05-06,2025-05-08,Direto no Balcao,273.56,3.0,2
+Paulo Okawachi,54,Standard,2025-07-10,2025-07-23,Booking.com,1966.68,4.0,13
+Fernanda Silva,77,Deluxe,2025-12-15,2025-12-23,Site Oficial,1806.12,4.0,8
+Julia Santos,65,Standard,2025-03-17,2025-03-23,Booking.com,1043.48,4.0,6
+Luyz Oliveira,45,Suite,2025-03-15,2025-03-17,Agencia,903.27,2.0,2
+Joao Oliveira,57,Standard,2025-02-15,2025-02-27,Agencia,1822.11,4.0,12
+Ana Santos,62,Standard,2025-05-29,2025-06-04,Agencia,861.79,4.0,6
+Maria Costa,79,Deluxe,2025-04-10,2025-04-20,Booking.com,2659.31,5.0,10
+Joao Pereira,75,Standard,2025-03-24,2025-04-02,Direto no Balcao,1289.08,5.0,9
+Julia Costa,84,Standard,2025-11-18,2025-11-25,Agencia,1098.93,4.0,7
+Ana Pereira,73,Standard,2025-10-11,2025-10-20,Agencia,1474.39,2.0,9
+Luyz Okawachi,57,Standard,2025-09-16,2025-09-21,Booking.com,868.36,3.0,5
+Julia Oliveira,57,Suite,2025-07-18,2025-07-25,Site Oficial,2977.26,3.0,7
+Felipe Oliveira,50,Standard,2025-10-28,2025-11-08,Site Oficial,1895.26,2.0,11
+Lucas Silva,23,Deluxe,2025-08-11,2025-08-25,Direto no Balcao,3524.73,4.0,14
+Paulo Costa,36,Suite,2025-09-03,2025-09-10,Direto no Balcao,2682.18,3.0,7
+Felipe Santos,57,Standard,2025-06-08,2025-06-20,Agencia,1795.15,3.0,12
+Paulo Costa,76,Suite,2025-03-20,2025-04-01,Booking.com,4412.3,2.0,12
+Ana Pereira,76,Standard,2025-06-23,2025-06-26,Agencia,431.07,1.0,3
+Julia Okawachi,65,Presidencial,2025-02-15,2025-02-22,Direto no Balcao,7825.4,2.0,7
+Carlos Oliveira,58,Standard,2025-01-27,2025-01-28,Booking.com,145.08,3.0,1
+Lucas Santos,30,Deluxe,2025-02-17,2025-02-26,Booking.com,2638.38,4.0,9
+Joao Santos,62,Standard,2025-11-04,2025-11-14,Direto no Balcao,1414.4,4.0,10
+Maria Santos,70,Standard,2025-01-27,2025-02-09,Site Oficial,2003.62,2.0,13
+Julia Okawachi,59,Deluxe,2025-10-05,2025-10-11,Site Oficial,1404.35,4.0,6
+Maria Silva,80,Deluxe,2025-09-03,2025-09-08,Booking.com,1178.21,3.0,5
+Fernanda Oliveira,44,Standard,2025-03-11,2025-03-18,Agencia,1180.95,3.0,7
+Luyz Costa,55,Standard,2025-11-03,2025-11-08,Site Oficial,724.83,1.0,5
+Fernanda Pereira,77,Deluxe,2025-12-03,2025-12-13,Agencia,2801.0,4.0,10
+Ana Santos,24,Deluxe,2025-08-29,2025-09-03,Site Oficial,1163.93,5.0,5
+Paulo Pereira,22,Presidencial,2025-04-01,2025-04-12,Site Oficial,12418.89,3.0,11
+Maria Pereira,62,Deluxe,2025-10-03,2025-10-13,Agencia,2415.69,2.0,10
+Joao Santos,75,Presidencial,2025-11-09,2025-11-20,Direto no Balcao,11019.57,5.0,11
+Fernanda Okawachi,48,Deluxe,2025-01-05,2025-01-12,Site Oficial,1647.42,3.0,7
+Ana Santos,40,Standard,2025-10-07,2025-10-17,Site Oficial,1799.44,3.0,10
+Luyz Alves,59,Standard,2025-09-17,2025-09-24,Agencia,1017.19,5.0,7
+Luyz Pereira,27,Deluxe,2025-03-01,2025-03-14,Direto no Balcao,3703.04,5.0,13
+Carlos Okawachi,49,Deluxe,2025-01-30,2025-02-10,Site Oficial,2520.32,4.0,11
+Fernanda Alves,70,Standard,2025-06-12,2025-06-15,Site Oficial,462.57,4.0,3
+Felipe Santos,47,Standard,2025-03-09,2025-03-12,Direto no Balcao,533.85,3.0,3
+Julia Oliveira,56,Presidencial,2025-05-12,2025-05-22,Site Oficial,9070.94,2.0,10
+Maria Okawachi,48,Deluxe,2025-08-08,2025-08-20,Direto no Balcao,3007.9,4.0,12
+Felipe Alves,19,Standard,2025-10-10,2025-10-23,Direto no Balcao,1770.86,2.0,13
+Luyz Silva,29,Standard,2025-09-14,2025-09-17,Agencia,445.58,4.0,3
+Carlos Oliveira,56,Standard,2025-05-14,2025-05-20,Booking.com,968.04,,6
+Joao Alves,83,Standard,2025-08-06,2025-08-18,Direto no Balcao,2068.82,,12
+Fernanda Chiavini,30,Standard,2025-01-09,2025-01-15,Agencia,883.62,3.0,6
+Lucas Santos,63,Standard,2026-01-01,2026-01-14,Booking.com,2267.97,4.0,13
+Fernanda Santos,44,Deluxe,2025-03-10,2025-03-23,Site Oficial,3083.99,4.0,13
+Lucas Oliveira,34,Standard,2025-07-11,2025-07-14,Booking.com,411.96,5.0,3
+Ana Costa,77,Suite,2025-03-21,2025-03-24,Direto no Balcao,1149.79,3.0,3
+Felipe Chiavini,81,Suite,2025-08-29,2025-09-06,Direto no Balcao,3641.12,1.0,8
+Lucas Santos,52,Standard,2025-12-11,2025-12-19,Direto no Balcao,1245.98,3.0,8
+Fernanda Alves,47,Deluxe,2025-08-11,2025-08-18,Direto no Balcao,2094.1,3.0,7
+Felipe Oliveira,80,Standard,2025-02-27,2025-03-09,Direto no Balcao,1676.37,3.0,10
+Luyz Chiavini,45,Suite,2025-06-25,2025-06-29,Agencia,1892.14,5.0,4
+Carlos Alves,77,Standard,2025-04-06,2025-04-10,Direto no Balcao,677.82,5.0,4
+Luyz Costa,54,Deluxe,2025-04-19,2025-04-22,Agencia,737.33,3.0,3
+Luyz Silva,39,Deluxe,2025-05-27,2025-06-01,Site Oficial,1442.2,4.0,5
+Carlos Silva,37,Standard,2025-06-22,2025-06-25,Direto no Balcao,433.49,2.0,3
+Fernanda Silva,81,Standard,2025-08-25,2025-09-07,Direto no Balcao,1756.58,5.0,13
+Maria Okawachi,34,Deluxe,2025-08-30,2025-09-07,Booking.com,1874.86,,8
+Felipe Costa,29,Deluxe,2025-07-10,2025-07-17,Site Oficial,1761.7,,7
+Paulo Chiavini,39,Standard,2025-02-13,2025-02-26,Direto no Balcao,1809.88,5.0,13
+Fernanda Okawachi,34,Deluxe,2025-11-19,2025-11-22,Direto no Balcao,737.59,3.0,3
+Joao Silva,27,Standard,2025-11-26,2025-12-05,Site Oficial,1259.98,1.0,9
+Carlos Santos,82,Deluxe,2025-07-28,2025-08-09,Agencia,3226.27,4.0,12
+Maria Santos,39,Standard,2025-01-23,2025-02-06,Direto no Balcao,2456.92,,14
+Luyz Oliveira,67,Suite,2025-09-12,2025-09-25,Booking.com,5430.54,3.0,13
+Ana Chiavini,31,Standard,2025-10-10,2025-10-15,Direto no Balcao,857.62,1.0,5
+Paulo Alves,81,Standard,2025-06-24,2025-07-03,Booking.com,1275.06,5.0,9
+Maria Okawachi,64,Standard,2025-10-10,2025-10-17,Booking.com,1177.35,2.0,7
+Julia Silva,46,Standard,2025-09-11,2025-09-18,Direto no Balcao,1070.99,4.0,7
+Joao Costa,53,Deluxe,2025-08-14,2025-08-20,Direto no Balcao,1778.44,5.0,6
+Julia Alves,69,Standard,2025-05-28,2025-05-30,Booking.com,344.4,3.0,2
+Lucas Santos,24,Suite,2025-01-22,2025-01-31,Site Oficial,3661.46,2.0,9
+Carlos Oliveira,46,Standard,2025-06-13,2025-06-19,Site Oficial,829.9,5.0,6
+Julia Okawachi,28,Standard,2025-06-04,2025-06-12,Direto no Balcao,1087.27,4.0,8
+Ana Alves,50,Standard,2025-09-02,2025-09-03,Agencia,135.75,,1
+Paulo Costa,23,Standard,2025-10-03,2025-10-08,Site Oficial,851.76,3.0,5
+Felipe Santos,49,Standard,2025-05-17,2025-05-29,Direto no Balcao,1924.49,2.0,12
+Julia Santos,68,Standard,2025-06-17,2025-06-18,Site Oficial,146.08,5.0,1
+Ana Santos,75,Standard,2025-01-12,2025-01-22,Agencia,1402.66,4.0,10
+Ana Santos,43,Standard,2025-04-24,2025-05-05,Direto no Balcao,1741.28,3.0,11
+Julia Pereira,63,Deluxe,2025-09-12,2025-09-26,Agencia,3485.16,5.0,14
+Julia Alves,46,Deluxe,2025-04-26,2025-05-04,Direto no Balcao,1829.74,3.0,8
+Luyz Santos,21,Standard,2025-12-23,2025-12-31,Agencia,1408.62,3.0,8
+Carlos Pereira,30,Standard,2025-01-19,2025-01-20,Site Oficial,135.31,2.0,1
+Julia Alves,2,Presidencial,2025-01-11,2025-01-20,Site Oficial,8555.77,4.0,9
+Julia Chiavini,32,Deluxe,2025-09-18,2025-09-20,Agencia,585.32,4.0,2
+Felipe Alves,46,Deluxe,2025-04-11,2025-04-23,Agencia,3389.13,4.0,12
+Ana Alves,46,Standard,2025-12-16,2025-12-25,Agencia,1314.0,5.0,9
+Paulo Alves,49,Deluxe,2025-07-28,2025-07-29,Direto no Balcao,274.12,,1
+Julia Pereira,19,Deluxe,2025-01-08,2025-01-20,Site Oficial,3470.03,2.0,12
+Julia Chiavini,64,Deluxe,2025-06-10,2025-06-20,Direto no Balcao,2850.03,2.0,10
+Carlos Oliveira,39,Presidencial,2025-06-26,2025-07-10,Site Oficial,15712.05,1.0,14
+Maria Oliveira,44,Standard,2025-01-10,2025-01-24,Booking.com,2144.23,2.0,14
+Joao Pereira,84,Standard,2025-05-01,2025-05-10,Direto no Balcao,1522.94,5.0,9
+Ana Oliveira,73,Deluxe,2025-11-17,2025-11-21,Site Oficial,970.23,5.0,4
+Paulo Chiavini,38,Suite,2025-09-22,2025-10-01,Site Oficial,3902.7,5.0,9
+Paulo Costa,64,Standard,2025-02-07,2025-02-14,Direto no Balcao,1156.11,3.0,7
+Maria Silva,76,Standard,2025-07-20,2025-07-31,Direto no Balcao,1668.37,3.0,11
+Maria Alves,23,Standard,2025-10-07,2025-10-13,Site Oficial,819.82,4.0,6
+Ana Okawachi,36,Standard,2025-09-11,2025-09-16,Direto no Balcao,860.5,2.0,5
+Luyz Santos,74,Deluxe,2025-08-25,2025-09-05,Agencia,3126.23,4.0,11
+Ana Alves,20,Deluxe,2025-03-26,2025-04-04,Direto no Balcao,2083.08,,9
+Joao Pereira,18,Standard,2025-09-06,2025-09-08,Direto no Balcao,322.3,4.0,2
+Carlos Chiavini,75,Standard,2025-03-28,2025-04-11,Direto no Balcao,2039.35,5.0,14
+Paulo Silva,55,Standard,2025-12-31,2026-01-13,Site Oficial,2252.72,4.0,13
+Julia Alves,32,Standard,2025-08-27,2025-09-07,Agencia,1521.47,2.0,11
+Fernanda Santos,51,Deluxe,2025-01-16,2025-01-30,Booking.com,3384.16,4.0,14
+Paulo Pereira,78,Presidencial,2025-05-12,2025-05-24,Booking.com,13871.32,3.0,12
+Fernanda Chiavini,52,Suite,2025-09-18,2025-09-20,Agencia,777.8,1.0,2
+Paulo Silva,81,Standard,2025-01-30,2025-02-10,Agencia,1867.9,4.0,11
+Joao Chiavini,42,Suite,2025-01-11,2025-01-23,Agencia,5188.87,5.0,12
+Paulo Santos,41,Deluxe,2025-05-22,2025-05-31,Site Oficial,2092.6,3.0,9
+Felipe Costa,29,Deluxe,2025-10-18,2025-10-30,Booking.com,2977.8,4.0,12
+Luyz Okawachi,35,Standard,2025-07-11,2025-07-14,Agencia,513.99,5.0,3
+Lucas Oliveira,32,Standard,2025-06-20,2025-06-28,Site Oficial,1264.33,5.0,8
+Joao Oliveira,44,Standard,2025-09-13,2025-09-24,Booking.com,1867.33,5.0,11
+Paulo Silva,77,Standard,2025-09-06,2025-09-15,Direto no Balcao,1284.34,3.0,9
+Ana Alves,63,Standard,2025-03-05,2025-03-13,Site Oficial,1385.5,,8
+Julia Costa,34,Standard,2025-07-10,2025-07-14,Booking.com,566.67,3.0,4
+Julia Okawachi,70,Standard,2025-08-20,2025-09-01,Site Oficial,2139.97,4.0,12
+Ana Chiavini,25,Deluxe,2025-06-18,2025-06-19,Booking.com,225.96,1.0,1
+Maria Oliveira,44,Standard,2025-10-16,2025-10-20,Booking.com,580.09,4.0,4
+Ana Santos,63,Standard,2025-07-03,2025-07-17,Direto no Balcao,1936.45,3.0,14
+Joao Alves,67,Presidencial,2025-04-04,2025-04-13,Site Oficial,8462.14,4.0,9
+Lucas Oliveira,20,Suite,2025-10-18,2025-10-20,Agencia,738.63,3.0,2
+Luyz Costa,81,Deluxe,2025-01-14,2025-01-17,Direto no Balcao,738.26,3.0,3
+Fernanda Oliveira,61,Presidencial,2025-08-07,2025-08-17,Direto no Balcao,10273.5,4.0,10
+Julia Chiavini,70,Deluxe,2025-04-09,2025-04-17,Booking.com,1917.5,5.0,8
+Ana Silva,41,Presidencial,2025-12-22,2025-12-28,Agencia,5878.6,,6
+Julia Costa,77,Standard,2025-12-19,2025-12-27,Site Oficial,1287.34,3.0,8
+Luyz Santos,20,Standard,2025-09-14,2025-09-21,Agencia,1029.05,5.0,7
+Fernanda Pereira,37,Standard,2025-11-16,2025-11-30,Agencia,2032.19,5.0,14
+Lucas Oliveira,63,Standard,2025-01-07,2025-01-20,Agencia,2122.06,3.0,13
+Carlos Oliveira,32,Standard,2025-06-28,2025-07-11,Agencia,2006.35,1.0,13
+Lucas Silva,42,Deluxe,2025-04-05,2025-04-10,Agencia,1361.28,5.0,5
+Felipe Oliveira,34,Deluxe,2025-08-07,2025-08-16,Booking.com,2622.55,,9
+Carlos Chiavini,26,Deluxe,2025-10-27,2025-10-31,Booking.com,978.23,4.0,4
+Ana Oliveira,55,Standard,2025-08-25,2025-08-31,Direto no Balcao,941.17,4.0,6
+Maria Oliveira,65,Suite,2025-01-21,2025-01-23,Booking.com,775.44,4.0,2
+Julia Okawachi,77,Deluxe,2025-07-23,2025-07-25,Direto no Balcao,597.19,3.0,2
+Fernanda Okawachi,80,Standard,2025-12-31,2026-01-02,Direto no Balcao,343.79,5.0,2
+Luyz Pereira,19,Deluxe,2025-07-18,2025-07-28,Site Oficial,2589.49,5.0,10
+Fernanda Chiavini,28,Standard,2025-07-22,2025-07-29,Agencia,1166.86,2.0,7
+Joao Pereira,81,Standard,2025-10-30,2025-11-12,Booking.com,1940.77,5.0,13
+Maria Oliveira,38,Suite,2025-03-26,2025-03-28,Site Oficial,845.0,3.0,2
+Joao Costa,35,Standard,2025-07-30,2025-08-11,Booking.com,1934.35,,12
+Maria Costa,81,Standard,2025-07-06,2025-07-19,Direto no Balcao,2050.05,4.0,13
+Luyz Pereira,55,Suite,2025-10-24,2025-10-26,Booking.com,899.85,3.0,2
+Ana Alves,49,Deluxe,2025-03-30,2025-04-08,Agencia,2242.68,4.0,9
+Carlos Chiavini,28,Standard,2025-01-15,2025-01-22,Direto no Balcao,1162.99,4.0,7
+Julia Alves,62,Standard,2025-09-28,2025-10-09,Direto no Balcao,1791.3,2.0,11
+Luyz Oliveira,50,Standard,2025-10-25,2025-10-28,Site Oficial,424.27,4.0,3
+Luyz Oliveira,58,Deluxe,2025-07-05,2025-07-08,Agencia,690.27,4.0,3
+Lucas Silva,25,Standard,2025-11-02,2025-11-09,Direto no Balcao,1064.75,5.0,7
+Luyz Oliveira,28,Standard,2025-03-24,2025-03-29,Agencia,744.17,1.0,5
+Paulo Costa,68,Presidencial,2025-05-26,2025-06-05,Booking.com,9138.53,4.0,10
+Paulo Silva,58,Deluxe,2025-03-06,2025-03-20,Agencia,4070.97,2.0,14
+Carlos Alves,34,Standard,2025-10-01,2025-10-15,Direto no Balcao,1948.29,5.0,14
+Lucas Santos,63,Deluxe,2025-05-24,2025-05-30,Site Oficial,1528.81,2.0,6
+Julia Silva,49,Deluxe,2025-02-17,2025-03-02,Direto no Balcao,3710.8,,13
+Lucas Santos,71,Standard,2025-05-18,2025-05-30,Agencia,2137.29,5.0,12
+Felipe Alves,37,Standard,2025-03-18,2025-03-26,Agencia,1322.47,4.0,8
+Fernanda Okawachi,50,Suite,2025-12-13,2025-12-22,Direto no Balcao,3994.42,4.0,9
+Joao Silva,57,Standard,2025-06-17,2025-06-18,Agencia,166.41,2.0,1
+Carlos Okawachi,49,Deluxe,2025-07-31,2025-08-03,Booking.com,757.41,3.0,3
+Ana Okawachi,19,Standard,2025-01-13,2025-01-24,Direto no Balcao,1815.09,5.0,11
+Maria Okawachi,50,Standard,2025-12-30,2026-01-06,Site Oficial,1018.94,,7
+Lucas Costa,47,Standard,2025-08-08,2025-08-14,Direto no Balcao,1059.74,1.0,6
+Ana Santos,50,Standard,2025-04-10,2025-04-17,Booking.com,977.3,4.0,7
+Paulo Chiavini,43,Standard,2025-12-05,2025-12-13,Booking.com,1113.45,5.0,8
+Fernanda Chiavini,39,Standard,2025-12-07,2025-12-13,Booking.com,831.47,4.0,6
+Ana Okawachi,83,Suite,2025-10-13,2025-10-16,Booking.com,1080.49,2.0,3
+Felipe Santos,55,Presidencial,2025-03-04,2025-03-06,Booking.com,2020.98,3.0,2
+Ana Oliveira,63,Deluxe,2025-02-13,2025-02-25,Site Oficial,3421.02,3.0,12
+Carlos Pereira,32,Suite,2025-10-15,2025-10-22,Agencia,3123.64,5.0,7
+Carlos Okawachi,61,Standard,2025-05-19,2025-05-31,Booking.com,1754.55,4.0,12
+Lucas Oliveira,66,Presidencial,2025-08-18,2025-08-30,Booking.com,13759.86,4.0,12
+Carlos Chiavini,78,Standard,2025-04-27,2025-05-09,Direto no Balcao,1859.81,,12
+Fernanda Silva,84,Presidencial,2025-04-07,2025-04-18,Site Oficial,9902.36,4.0,11
+Carlos Oliveira,23,Presidencial,2025-04-09,2025-04-10,Site Oficial,918.19,5.0,1
+Joao Pereira,26,Deluxe,2025-02-12,2025-02-15,Agencia,832.18,4.0,3
+Fernanda Alves,23,Presidencial,2025-11-02,2025-11-14,Site Oficial,13634.51,2.0,12
+Julia Alves,49,Deluxe,2025-01-07,2025-01-18,Direto no Balcao,2845.91,,11
+Fernanda Santos,25,Standard,2025-03-29,2025-04-11,Agencia,1887.85,3.0,13
+Ana Chiavini,67,Deluxe,2025-06-30,2025-07-14,Direto no Balcao,3826.1,3.0,14
+Luyz Santos,79,Standard,2025-04-27,2025-04-28,Booking.com,169.77,2.0,1
+Joao Pereira,79,Deluxe,2025-11-21,2025-11-26,Booking.com,1352.26,4.0,5
+Carlos Okawachi,24,Presidencial,2025-05-26,2025-06-05,Direto no Balcao,10519.77,5.0,10
+Maria Oliveira,21,Standard,2025-01-05,2025-01-08,Agencia,521.99,,3
+Luyz Costa,23,Deluxe,2025-02-20,2025-02-22,Site Oficial,552.06,,2
+Fernanda Silva,75,Suite,2025-01-01,2025-01-04,Agencia,1111.89,2.0,3
+Joao Silva,39,Suite,2025-03-14,2025-03-22,Site Oficial,3792.56,4.0,8
+Joao Chiavini,43,Presidencial,2025-10-10,2025-10-16,Direto no Balcao,5526.37,1.0,6
+Ana Chiavini,20,Deluxe,2025-10-12,2025-10-25,Direto no Balcao,3828.53,5.0,13
+Paulo Chiavini,58,Presidencial,2025-10-27,2025-11-10,Booking.com,14371.5,4.0,14
+Lucas Chiavini,77,Deluxe,2025-06-24,2025-07-01,Site Oficial,1933.16,4.0,7
+Joao Okawachi,31,Standard,2025-11-04,2025-11-16,Agencia,1878.23,5.0,12
+Carlos Pereira,29,Standard,2025-03-20,2025-03-26,Direto no Balcao,1067.63,4.0,6
+Maria Costa,29,Deluxe,2025-08-21,2025-08-27,Agencia,1512.65,3.0,6
+Maria Silva,30,Standard,2025-07-01,2025-07-13,Booking.com,1831.99,,12
+Julia Alves,42,Deluxe,2025-08-09,2025-08-12,Site Oficial,705.93,,3
+Felipe Santos,62,Deluxe,2025-01-25,2025-02-06,Site Oficial,3268.35,3.0,12
+Felipe Santos,36,Standard,2025-06-05,2025-06-18,Direto no Balcao,2197.49,4.0,13
+Maria Oliveira,72,Deluxe,2025-09-27,2025-10-11,Site Oficial,4090.88,,14
+Joao Pereira,62,Deluxe,2025-05-23,2025-05-31,Direto no Balcao,2348.96,1.0,8
+Felipe Oliveira,25,Standard,2025-05-10,2025-05-22,Booking.com,2005.17,4.0,12
+Julia Okawachi,70,Standard,2025-01-23,2025-01-30,Site Oficial,946.14,2.0,7
+Julia Santos,72,Standard,2025-05-27,2025-06-03,Direto no Balcao,1001.85,4.0,7
+Fernanda Santos,49,Standard,2025-02-03,2025-02-09,Agencia,912.09,1.0,6
+Luyz Alves,68,Suite,2025-04-10,2025-04-15,Direto no Balcao,1842.67,4.0,5
+Lucas Silva,61,Standard,2025-05-29,2025-06-08,Site Oficial,1479.17,3.0,10
+Carlos Chiavini,35,Deluxe,2025-06-12,2025-06-20,Booking.com,1991.26,4.0,8
+Ana Alves,39,Standard,2025-04-13,2025-04-18,Site Oficial,816.65,,5
+Paulo Oliveira,54,Standard,2025-01-19,2025-01-28,Site Oficial,1258.5,5.0,9
+Fernanda Costa,73,Suite,2025-06-01,2025-06-10,Direto no Balcao,3736.79,5.0,9
+Ana Pereira,76,Deluxe,2025-10-07,2025-10-08,Agencia,277.98,4.0,1
+Julia Oliveira,20,Standard,2025-06-09,2025-06-15,Site Oficial,1063.92,1.0,6
+Julia Santos,45,Standard,2025-04-10,2025-04-17,Agencia,1154.08,3.0,7
+Julia Costa,52,Standard,2025-06-05,2025-06-08,Direto no Balcao,515.42,,3
+Luyz Pereira,78,Standard,2025-01-03,2025-01-10,Agencia,1061.37,4.0,7
+Julia Okawachi,71,Deluxe,2025-02-09,2025-02-20,Direto no Balcao,2649.3,2.0,11
+Carlos Santos,80,Standard,2025-12-24,2026-01-04,Booking.com,1946.75,5.0,11
+Felipe Santos,24,Standard,2025-09-09,2025-09-16,Agencia,1148.48,3.0,7
+Julia Oliveira,66,Standard,2025-08-16,2025-08-30,Agencia,2344.66,3.0,14
+Joao Pereira,48,Suite,2025-02-09,2025-02-22,Booking.com,5379.07,,13
+Lucas Oliveira,75,Presidencial,2025-02-14,2025-02-25,Agencia,12768.64,5.0,11
+Carlos Alves,78,Standard,2025-08-18,2025-08-20,Booking.com,307.26,4.0,2
+Ana Pereira,41,Deluxe,2025-05-22,2025-05-29,Site Oficial,2029.84,,7
+Joao Chiavini,37,Standard,2025-07-16,2025-07-17,Direto no Balcao,168.11,5.0,1
+Carlos Pereira,54,Standard,2025-12-05,2025-12-10,Booking.com,845.17,5.0,5
+Carlos Silva,21,Deluxe,2026-01-01,2026-01-10,Agencia,2058.58,1.0,9
+Lucas Silva,37,Suite,2025-08-02,2025-08-09,Booking.com,2853.23,2.0,7
+Paulo Silva,77,Presidencial,2025-06-03,2025-06-10,Agencia,7691.83,4.0,7
+Fernanda Chiavini,41,Deluxe,2025-06-11,2025-06-22,Site Oficial,2914.51,5.0,11
+Luyz Alves,67,Standard,2025-07-05,2025-07-18,Booking.com,2230.6,4.0,13
+Maria Santos,66,Deluxe,2025-11-24,2025-12-06,Site Oficial,3505.95,2.0,12
+Luyz Silva,68,Standard,2025-09-20,2025-09-22,Direto no Balcao,320.77,2.0,2
+Joao Chiavini,53,Deluxe,2025-06-26,2025-07-04,Agencia,1968.15,5.0,8
+Carlos Chiavini,83,Standard,2025-05-11,2025-05-14,Agencia,521.29,2.0,3
+Joao Alves,51,Deluxe,2025-11-05,2025-11-13,Site Oficial,2122.1,4.0,8
+Luyz Pereira,53,Standard,2025-02-19,2025-02-22,Direto no Balcao,444.3,1.0,3
+Paulo Alves,23,Standard,2025-10-09,2025-10-19,Booking.com,1705.75,2.0,10
+Luyz Pereira,56,Suite,2025-05-14,2025-05-21,Booking.com,2882.19,5.0,7
+Luyz Silva,59,Standard,2025-12-14,2025-12-16,Agencia,292.21,5.0,2
+Maria Silva,75,Deluxe,2025-08-15,2025-08-19,Site Oficial,1006.39,3.0,4
+Joao Costa,29,Standard,2025-06-28,2025-07-09,Site Oficial,1866.32,3.0,11
+Maria Okawachi,20,Standard,2025-01-05,2025-01-11,Booking.com,1052.64,5.0,6
+Maria Pereira,35,Standard,2025-03-22,2025-04-02,Direto no Balcao,1702.56,3.0,11
+Paulo Santos,57,Standard,2025-10-26,2025-11-04,Direto no Balcao,1229.67,4.0,9
+Paulo Pereira,38,Suite,2025-05-11,2025-05-16,Booking.com,2276.28,,5
+Paulo Chiavini,32,Standard,2025-02-20,2025-03-05,Booking.com,1803.87,2.0,13
+Luyz Santos,43,Presidencial,2025-04-19,2025-04-28,Site Oficial,10431.0,,9
+Ana Pereira,25,Deluxe,2025-01-21,2025-01-26,Direto no Balcao,1169.45,3.0,5
+Joao Santos,59,Standard,2025-01-01,2025-01-11,Booking.com,1441.92,4.0,10
+Maria Okawachi,61,Deluxe,2025-02-09,2025-02-17,Booking.com,2154.18,4.0,8
+Luyz Silva,31,Deluxe,2025-09-05,2025-09-18,Agencia,3528.06,,13
+Carlos Alves,19,Deluxe,2025-07-21,2025-08-03,Booking.com,3611.89,3.0,13
+Felipe Okawachi,54,Standard,2025-09-29,2025-09-30,Booking.com,139.22,4.0,1
+Joao Okawachi,55,Standard,2025-11-09,2025-11-16,Direto no Balcao,1207.88,,7
+Ana Alves,58,Suite,2025-08-03,2025-08-07,Site Oficial,1487.05,4.0,4
+Ana Santos,79,Suite,2025-12-28,2026-01-02,Direto no Balcao,2372.74,4.0,5
+Ana Silva,77,Suite,2025-02-19,2025-02-25,Site Oficial,2647.9,3.0,6
+Julia Alves,31,Standard,2025-11-26,2025-12-01,Agencia,771.8,5.0,5
+Lucas Silva,19,Deluxe,2025-01-11,2025-01-23,Booking.com,2741.99,1.0,12
+Felipe Pereira,34,Standard,2025-06-02,2025-06-03,Agencia,159.69,1.0,1
+Joao Silva,45,Standard,2025-06-24,2025-07-06,Site Oficial,1928.73,4.0,12
+Maria Costa,83,Standard,2025-06-16,2025-06-25,Direto no Balcao,1598.76,3.0,9
+Luyz Santos,52,Deluxe,2025-02-16,2025-02-18,Direto no Balcao,553.48,,2
+Joao Silva,22,Standard,2025-11-07,2025-11-16,Agencia,1262.47,,9
+Felipe Alves,82,Standard,2025-10-12,2025-10-22,Site Oficial,1569.27,5.0,10
+Carlos Pereira,57,Suite,2025-12-05,2025-12-07,Agencia,804.47,5.0,2
+Carlos Chiavini,73,Standard,2025-09-04,2025-09-13,Agencia,1584.75,5.0,9
+Paulo Okawachi,53,Standard,2025-06-25,2025-07-01,Booking.com,959.87,2.0,6
+Joao Santos,62,Standard,2025-05-16,2025-05-27,Agencia,1655.46,5.0,11
+Luyz Pereira,40,Suite,2025-06-10,2025-06-19,Booking.com,3497.71,3.0,9
+Maria Pereira,64,Deluxe,2025-08-23,2025-09-05,Booking.com,3174.68,3.0,13
+Fernanda Pereira,48,Standard,2025-08-02,2025-08-08,Direto no Balcao,895.04,5.0,6
+Ana Costa,28,Suite,2025-01-17,2025-01-23,Booking.com,2300.68,4.0,6
+Luyz Santos,27,Suite,2025-07-12,2025-07-25,Booking.com,5873.99,5.0,13
+Ana Costa,84,Standard,2025-02-03,2025-02-14,Direto no Balcao,1555.24,3.0,11
+Julia Okawachi,31,Deluxe,2025-01-26,2025-02-09,Agencia,3373.23,4.0,14
+Maria Silva,27,Deluxe,2025-08-03,2025-08-05,Site Oficial,553.41,2.0,2
+Joao Costa,18,Deluxe,2025-01-14,2025-01-22,Site Oficial,2020.78,4.0,8
+Luyz Chiavini,22,Standard,2025-06-24,2025-06-27,Site Oficial,495.62,5.0,3
+Fernanda Silva,37,Suite,2025-07-24,2025-07-31,Agencia,2807.2,4.0,7
+Joao Santos,25,Deluxe,2025-05-18,2025-05-23,Booking.com,1196.42,3.0,5
+Felipe Costa,60,Standard,2025-11-09,2025-11-12,Site Oficial,459.98,1.0,3
+Fernanda Okawachi,18,Standard,2025-10-26,2025-10-27,Agencia,140.12,2.0,1
+Paulo Costa,74,Standard,2025-10-11,2025-10-19,Booking.com,1280.98,4.0,8
